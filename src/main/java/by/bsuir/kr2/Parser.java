@@ -1,39 +1,28 @@
 package by.bsuir.kr2;
 
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 @Stateless
 @LocalBean
 public class Parser {
 
-    public String readTagContent(Document document, String tagName) {
-        Element img = document.select(tagName).first();
-        String text = img.attr("src");
+    public Map<String, String> readTagContentsMap(Document document, String tagName,
+                                                  String attrKeyName, String attrKeyValue) {
+        Elements elements = document.select(tagName);
 
-        return text;
-    }
-
-    public List<String> readAllImgs(Document document, String tagName) {
-        Elements imgs = document.select(tagName);
-
-        List<String> imgLinks = new ArrayList<>();
-        imgs.forEach(img -> {
-            if (!img.attr("src").isBlank()) {
-                imgLinks.add(img.attr("src"));
-            }
-
-            if (!img.attr("data-src").isBlank()) {
-                imgLinks.add(img.attr("data-src"));
+        Map<String, String> tagsContent = new HashMap<>();
+        elements.forEach(element -> {
+            if (!element.attr(attrKeyValue).isBlank() && !element.attr(attrKeyName).isBlank()) {
+                tagsContent.put(element.attr(attrKeyName), element.attr(attrKeyValue));
             }
         });
 
-        return imgLinks;
+        return tagsContent;
     }
 }

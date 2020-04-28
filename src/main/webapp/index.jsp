@@ -13,7 +13,7 @@
             integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
             src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
-    <title>Search for student</title>
+    <title>Search</title>
 </head>
 <body>
     <div class="container">
@@ -24,22 +24,24 @@
             <button type="submit">Load</button>
         </form>
 
-        <div>
+        <div class="table-responsive-sm">
             <c:if test="${not empty success}">
-                <p>Single Img data</p>
-                <a href="${tagData}">Link to image</a>
-                <hr>
-
-                <c:forEach var="imgLink" items="${imgLinks}">
-                    <div>
-                        <img src="${imgLink}" alt="" />
-                        <hr>
-                    </div>
-                </c:forEach>
-                <%--<p>You can download file here!</p>--%>
-                <%--<br>--%>
-                <%--&lt;%&ndash;TODO: Change download path&ndash;%&gt;--%>
-                <%--<a href="" download="">Download</a>--%>
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr>
+                        <th><b>Meta name:</b></th>
+                        <th><b>Meta content:</b></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <c:forEach var="tag" items="${metaTagsMap}">
+                        <tr>
+                            <td><c:out value="${tag.key}" /></td>
+                            <td><c:out value="${tag.value}" /></td>
+                        </tr>
+                    </c:forEach>
+                    </tbody>
+                </table>
             </c:if>
         </div>
 

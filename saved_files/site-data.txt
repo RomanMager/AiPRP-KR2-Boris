@@ -1,0 +1,1564 @@
+<!doctype html><!--[if IE 7 ]><html lang="ru" class="ie7 responsive-layout"><![endif]--><!--[if IE 8 ]><html lang="ru" class="ie8 responsive-layout"><![endif]--><!--[if IE 9 ]><html lang="ru" class="ie9 responsive-layout"><![endif]--><!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="ru" class="responsive-layout">
+ <!--<![endif]--> 
+ <head> <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6V5CH3');</script> <!-- End Google Tag Manager --> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"> 
+  <meta name="keywords" content=""> 
+  <meta name="description" content="Onliner посещают сотни тысяч белорусов, чтобы покупать в каталоге, размещать объявления, общаться на форуме, а также читать новости и статьи!"> 
+  <title>Onliner</title> 
+  <link rel="shortcut icon" href="https://gc.onliner.by/favicon.ico"> <!-- Icons --> <!-- Common and Chrome: Android--> 
+  <link rel="icon" type="image/x-icon" href="https://gc.onliner.by/images/logo/icons/favicon.ico"> 
+  <link rel="icon" type="image/png" href="https://gc.onliner.by/images/logo/icons/favicon-16x16.png" sizes="16x16"> 
+  <link rel="icon" type="image/png" href="https://gc.onliner.by/images/logo/icons/favicon-32x32.png" sizes="32x32"> 
+  <link rel="icon" type="image/png" href="https://gc.onliner.by/images/logo/icons/favicon-96x96.png" sizes="96x96"> 
+  <link rel="icon" type="image/png" href="https://gc.onliner.by/images/logo/icons/favicon-192x192.png" sizes="192x192"> <!-- Colors --> <!-- Chrome: Android--> 
+  <meta name="theme-color" content="#246eb7"> <!-- Pinned Tabs --> <!-- Safari: OS X --> 
+  <link rel="mask-icon" href="https://gc.onliner.by/images/logo/icons/icon.svg" color="#ff0000"> 
+  <link rel="stylesheet" href="//gc.onliner.by/assets/common_v3.323ad881a9b397b6.css"> 
+  <link rel="stylesheet" href="//gc.onliner.by/assets/responsive-layout.bd3f4af77aac9f47.css"> 
+  <link rel="stylesheet" href="//gc.onliner.by/assets/auth.97c0835bcea2bc53.css"> <!--[if lt IE 9]><script src="https://gc.onliner.by/js/html5.js?token=1587727312"></script><![endif]--> 
+  <link rel="stylesheet" type="text/css" href="//gc.onliner.by/assets/mainpage_v3.36d9445aaeb6033b.css">
+  <script type="text/javascript" src="//gc.onliner.by/assets/main-page.9a5e0948ada0e57a.js"></script> 
+  <link rel="alternate" type="application/rss+xml" title="Onliner" href="/feed">
+  <meta name="yandex-verification" content="64023db300b691cc"> 
+  <script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script> <!-- Safari: iOS --> 
+  <link rel="apple-touch-icon" sizes="60x60" href="https://gc.onliner.by/images/logo/icons/apple-touch-icon-60x60.png"> 
+  <link rel="apple-touch-icon" sizes="120x120" href="https://gc.onliner.by/images/logo/icons/apple-touch-icon-120x120.png"> 
+  <link rel="apple-touch-icon" sizes="180x180" href="https://gc.onliner.by/images/logo/icons/apple-touch-icon-180x180.png"> 
+ </head> 
+ <body> <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6V5CH3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> <!-- End Google Tag Manager (noscript) --> <!--Layout container--> 
+  <div class="layout-container"> <!--Container--> 
+   <div id="container"> 
+    <div class="g-container-outer"> 
+     <div class="l-gradient-wrapper"> <!--Top--> 
+      <header class="g-top"> 
+       <div id="navigation-sidebar" class="header-style"> 
+        <div class="header-style__overlay" data-bind="click: $root.toggleSidebar.bind($root)"></div> 
+        <div class="header-style__aside"> 
+         <div class="header-style__toggle"></div> <a href="#" class="header-style__underlay" data-bind="click: $root.toggleSidebar.bind($root)"></a> 
+         <div class="header-style__navigation"> 
+          <div class="header-style__top"> 
+           <div class="header-style__age">
+            18+
+           </div> 
+           <div class="header-style__title">
+             Onliner 
+           </div> 
+          </div> 
+          <div class="header-style__middle"> 
+           <ul class="header-style__list header-style__list_primary"> 
+            <li class="header-style__item"> <a href="https://onliner.by" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Главная страница</span> </a> </li> 
+            <li class="header-style__item"> <a href="https://catalog.onliner.by" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Каталог</span> </a> <a href="https://catalog.onliner.by/dominos?utm_source=onliner&amp;utm_medium=bubble&amp;utm_campaign=dominos" class="header-style__bubble header-style__bubble_subsidiary" data-bind="click: $root.goToLink.bind($root)">Доминос -20%</a> </li> 
+            <li class="header-style__item header-style__item_arrow" data-bind="click: $root.toggleArrowItem.bind($root)"> <a href="#" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Новости</span> </a> <a href="https://sp.onliner.by/covid-19?utm_source=mobileinew&amp;utm_medium=mobileinew" class="header-style__bubble header-style__bubble_primary" data-bind="click: $root.goToLink.bind($root)">Коронавирус</a> 
+             <ul class="header-style__list header-style__list_secondary"> 
+              <li class="header-style__item"> <a href="https://people.onliner.by" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Люди</span> </a> </li> 
+              <li class="header-style__item"> <a href="https://people.onliner.by/opinions" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Мнения</span> </a> </li> 
+              <li class="header-style__item"> <a href="https://auto.onliner.by" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Авто</span> </a> </li> 
+              <li class="header-style__item"> <a href="https://tech.onliner.by" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Технологии</span> </a> </li> 
+              <li class="header-style__item"> <a href="https://realt.onliner.by" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Недвижимость</span> </a> </li> 
+             </ul> </li> 
+            <li class="header-style__item header-style__item_arrow header-style__item_ab" data-bind="click: $root.toggleArrowItem.bind($root)"> <a href="#" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Автобарахолка</span> </a> 
+             <ul class="header-style__list header-style__list_secondary"> 
+              <li class="header-style__item"> <a href="https://ab.onliner.by" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Авто</span> </a> <a href="https://ab.onliner.by/?utm_source=bubble&amp;utm_medium=create" class="header-style__bubble header-style__bubble_secondary" data-bind="click: $root.goToLink.bind($root)">Продать авто</a> </li> 
+              <li class="header-style__item"> <a href="https://mb.onliner.by" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Мото</span> </a> </li> 
+             </ul> </li> 
+            <li class="header-style__item header-style__item_arrow" data-bind="click: $root.toggleArrowItem.bind($root)"> <a href="#" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Дома и квартиры</span> </a> 
+             <ul class="header-style__list header-style__list_secondary"> 
+              <li class="header-style__item"> <a href="https://r.onliner.by" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Продажа</span> </a> </li> 
+              <li class="header-style__item"> <a href="https://r.onliner.by/ak" class="header-style__link header-style__link_primary" data-bind="click: $root.goToLink.bind($root)"> <span class="header-style__sign">Аренда</span> </a> </li> 
+             </ul> </li> 
+            <li class="header-style__item"> <a href="https://s.onliner.by/tasks" class="header-style__link header-style__link_primary"> <span class="header-style__sign"> Услуги </span> </a> </li> 
+            <li class="header-style__item"> <a href="https://baraholka.onliner.by" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Барахолка</span> </a> </li> 
+            <li class="header-style__item"> <a href="https://forum.onliner.by" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Форум</span> </a> </li> 
+           </ul> 
+           <div class="header-style__divider"></div> 
+           <ul class="header-style__list header-style__list_primary"> 
+            <li id="cart-mobile" class="header-style__item header-style__item_cart"> <a href="https://cart.onliner.by" class="header-style__link header-style__link_primary"> <span class="header-style__sign">Корзина</span> <!-- ko if: $root.cartQuantity --> <span class="header-style__counter" data-bind="text: $root.cartQuantity"></span> <!-- /ko --> </a> </li> <!-- ko if: $root.currentUser.id() --> 
+            <li class="header-style__item header-style__item_history"> <a href="https://cart.onliner.by/orders" class="header-style__link header-style__link_primary"> <span class="header-style__sign">История заказов</span> </a> </li> <!-- /ko --> 
+           </ul> 
+          </div> 
+          <div class="header-style__bottom"> <!-- ko if: $root.currentUser.id() --> 
+           <div class="header-style__exit"> <a class="header-style__link header-style__link_secondary" data-bind="click: $root.currentUser.logout"> Выйти </a> 
+           </div> 
+           <div class="header-style__data"> 
+            <div class="header-style__preview"> <a href="https://profile.onliner.by/" class="header-style__image header-style__image_person" data-bind="style: {'background-image': 'url(\'https://content.onliner.by/user/avatar/60x60/' + $root.currentUser.id() + '\')'}"></a> 
+            </div> 
+            <div class="header-style__name"> <a href="https://profile.onliner.by" class="header-style__link header-style__link_primary" data-bind="text: $root.currentUser.nickname()"> </a> 
+            </div> 
+           </div> <!-- /ko --> <!-- ko if: !$root.currentUser.id() --> 
+           <div id="login-app-mobile"></div> <!-- /ko --> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var sidebarContainer = document.getElementById('navigation-sidebar'),
+            options = {
+                selectors: {},
+                modifiers: {
+                    sidebarOpened: 'body_state-header-style_opened',
+                    arrowItemOpened: 'header-style__item_opened'
+                }
+            },
+            currentUser = new CLASSES.User();
+
+    
+        options.currentUser = currentUser;
+
+        var sidebarNavigation = new SidebarNavigation(options);
+
+        sidebarContainer && !ko.dataFor(sidebarContainer) && ko.applyBindings(sidebarNavigation, sidebarContainer);
+
+        Onliner.dispatcher.subscribe('auth:success', function (data) {
+            currentUser.setData(data.user);
+        });
+
+        Onliner.dispatcher.subscribe('general:close-sidebar-navigation', function () {
+            sidebarNavigation.closeSidebar();
+        });
+    });
+</script> <!--Top-navigation--> 
+       <div class="b-top-menu"> 
+        <div class="g-top-i"> 
+         <nav class="b-top-navigation"> <!--Main-navigation--> 
+          <ul class="b-main-navigation"> 
+           <li class="b-main-navigation__item"> <a href="https://catalog.onliner.by/dominos?utm_source=onliner&amp;utm_medium=bubble&amp;utm_campaign=dominos" class="b-main-navigation__advert b-main-navigation__advert_subsidiary"> 
+             <div class="b-main-navigation__bubble b-main-navigation__bubble_subsidiary">
+               Доминос -20% 
+             </div> </a> <a href="https://catalog.onliner.by/" class="b-main-navigation__link"> <span class="b-main-navigation__text">Каталог</span> </a> </li> 
+           <li class="b-main-navigation__item b-main-navigation__item_arrow"> <a href="https://www.onliner.by" class="b-main-navigation__link"> <span class="b-main-navigation__text">Новости</span> </a> 
+            <div class="b-main-navigation__dropdown"> 
+             <div class="g-top-i"> 
+              <div class="b-main-navigation__dropdown-wrapper"> 
+               <div class="b-main-navigation__dropdown-grid"> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_25"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://people.onliner.by" class="b-main-navigation__dropdown-title-link">Люди</a> 
+                 </div> 
+                 <ul class="b-main-navigation__dropdown-news-list"> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://people.onliner.by/2020/04/28/coronavirus-v-belarusi-28-april" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/3202f9cef4ae9ee20f0cb224610e9599.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">26 458</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://people.onliner.by/2020/04/28/coronavirus-v-belarusi-28-april" class="b-main-navigation__dropdown-news-link">12 208 случаев коронавируса в Беларуси</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://people.onliner.by/2020/04/28/vlozhil-30-tysyach-dollarov-dva-goda-vse-shlo-kraxom-grodnenec-otkryl-kafe-za-mesyac-do-nachala-koronavirusa-i-ne-panikuet" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/2c7c9fbc27cae7f44ef541fc81bb8331.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">24 359</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://people.onliner.by/2020/04/28/vlozhil-30-tysyach-dollarov-dva-goda-vse-shlo-kraxom-grodnenec-otkryl-kafe-za-mesyac-do-nachala-koronavirusa-i-ne-panikuet" class="b-main-navigation__dropdown-news-link">Гродненец открыл кафе за месяц до начала коронавируса и не паникует</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://people.onliner.by/2020/04/28/belarus-obognala-polshu-po-vyyavlennym-sluchayam-covid-19" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/06a815eadfc075806e6c1a001d539a20.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">14 455</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://people.onliner.by/2020/04/28/belarus-obognala-polshu-po-vyyavlennym-sluchayam-covid-19" class="b-main-navigation__dropdown-news-link">Беларусь обогнала Польшу по выявленным случаям COVID-19</a> 
+                   </div> </li> 
+                 </ul> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://people.onliner.by" class="b-main-navigation__dropdown-button"> Еще 1 за сегодня </a> 
+                 </div> 
+                </div> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_25"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://auto.onliner.by" class="b-main-navigation__dropdown-title-link">Авто</a> 
+                 </div> 
+                 <ul class="b-main-navigation__dropdown-news-list"> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://auto.onliner.by/2020/04/28/otrestavriroval-gaz-21-2" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/249193b98b8b82d7baa15f28961d0021.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">18 635</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://auto.onliner.by/2020/04/28/otrestavriroval-gaz-21-2" class="b-main-navigation__dropdown-news-link">Воплотил мечту и отреставрировал ГАЗ-21 своими руками. Теперь продает</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://auto.onliner.by/2020/04/27/postradavshaja-dtp-operacija-mozg" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/c4ef0326054255f3b7015a67c462bde1.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_secondary">65 831</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://auto.onliner.by/2020/04/27/postradavshaja-dtp-operacija-mozg" class="b-main-navigation__dropdown-news-link">«Таким ребенком, как до&nbsp;происшествия, она уже не&nbsp;будет, но...»</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://auto.onliner.by/2020/04/27/video-mashina-operedila-po-razdelitelnoj-polose-vozle-kurgana-slavy" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/5c0631808391b2d809f04ae64a211eba.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_secondary">31 448</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://auto.onliner.by/2020/04/27/video-mashina-operedila-po-razdelitelnoj-polose-vozle-kurgana-slavy" class="b-main-navigation__dropdown-news-link">Видео: машина опередила по разделительной полосе возле Жукова Луга</a> 
+                   </div> </li> 
+                 </ul> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://auto.onliner.by" class="b-main-navigation__dropdown-button"> Перейти в раздел </a> 
+                 </div> 
+                </div> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_25"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://tech.onliner.by" class="b-main-navigation__dropdown-title-link">Технологии</a> 
+                 </div> 
+                 <ul class="b-main-navigation__dropdown-news-list"> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://tech.onliner.by/2020/04/28/kak-evropa-vyxodit-iz-karantina" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/661acf0305df96a557636b79706d1e54.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">14 745</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://tech.onliner.by/2020/04/28/kak-evropa-vyxodit-iz-karantina" class="b-main-navigation__dropdown-news-link">Жизнь возвращается в Европу. Как страны будут выходить из карантина?</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://tech.onliner.by/2020/04/28/evropa-ottaivaet-xronika-koronavirusa-28-aprelya" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/18291c82852c7ecaeaabbf79147a7422.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">9887</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://tech.onliner.by/2020/04/28/evropa-ottaivaet-xronika-koronavirusa-28-aprelya" class="b-main-navigation__dropdown-news-link">Экономике сильно нездоровится. Хроника коронавируса 28 апреля</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://tech.onliner.by/2020/04/28/korabl-spacex-starship-nakonec-to-proshel-klyuchevoj-test" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/8ede66ca6f5ad70594c48266a687ff3a.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">2201</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://tech.onliner.by/2020/04/28/korabl-spacex-starship-nakonec-to-proshel-klyuchevoj-test" class="b-main-navigation__dropdown-news-link">Корабль SpaceX Starship наконец-то прошел ключевой тест</a> 
+                   </div> </li> 
+                 </ul> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://tech.onliner.by" class="b-main-navigation__dropdown-button"> Перейти в раздел </a> 
+                 </div> 
+                </div> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_25"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://realt.onliner.by" class="b-main-navigation__dropdown-title-link">Недвижимость</a> 
+                 </div> 
+                 <ul class="b-main-navigation__dropdown-news-list"> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://realt.onliner.by/2020/04/28/obshhezhitiye" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/6a76b469485b61416cd4619adbc94ba2.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_primary">19 089</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://realt.onliner.by/2020/04/28/obshhezhitiye" class="b-main-navigation__dropdown-news-link">Что теперь происходит в 17-м общежитии БНТУ, откуда выселили студентов</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://realt.onliner.by/2020/04/27/shashlychok-v-period-pandemii-reportazh-s-populyarnyx-piknikovyx-mest-minska" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/ac0db68a995e28af4e8c89045cb47bdb.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_secondary">107 613</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://realt.onliner.by/2020/04/27/shashlychok-v-period-pandemii-reportazh-s-populyarnyx-piknikovyx-mest-minska" class="b-main-navigation__dropdown-news-link">Шашлычок в период пандемии. Репортаж с популярных пикниковых мест Минска</a> 
+                   </div> </li> 
+                  <li class="b-main-navigation__dropdown-news-item"> <a href="https://realt.onliner.by/2020/04/27/tancevalnaya-chuma-anglijskij-pot-sonnaya" class="b-main-navigation__dropdown-news-preview"> <span class="b-main-navigation__dropdown-news-image" style="background-image:url(https://content.onliner.by/news/site_header/95b931e05c7161c0962e0d1d79ced535.jpeg)"></span> <span class="b-main-navigation__dropdown-news-labels"> <span class="b-main-navigation__dropdown-news-label b-main-navigation__dropdown-news-label_view b-main-navigation__dropdown-news-label_secondary">37 485</span> </span> </a> 
+                   <div class="b-main-navigation__dropdown-news-description"> <a href="https://realt.onliner.by/2020/04/27/tancevalnaya-chuma-anglijskij-pot-sonnaya" class="b-main-navigation__dropdown-news-link">Топ самых необычных эпидемий в истории человечества</a> 
+                   </div> </li> 
+                 </ul> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://realt.onliner.by" class="b-main-navigation__dropdown-button"> Перейти в раздел </a> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> </li> 
+           <li class="b-main-navigation__item b-main-navigation__item_arrow"> <a href="https://ab.onliner.by/?utm_source=bubble&amp;utm_medium=create" class="b-main-navigation__advert b-main-navigation__advert_secondary"> 
+             <div class="b-main-navigation__bubble b-main-navigation__bubble_secondary">
+               Продать авто 
+             </div> </a> <a href="https://ab.onliner.by" class="b-main-navigation__link"> <span class="b-main-navigation__text">Автобарахолка</span> </a> 
+            <div class="b-main-navigation__dropdown"> 
+             <div class="g-top-i"> 
+              <div class="b-main-navigation__dropdown-wrapper"> 
+               <div class="b-main-navigation__dropdown-grid"> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_75"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://ab.onliner.by" class="b-main-navigation__dropdown-title-link">Автобарахолка</a> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-wrapper"> 
+                  <div class="b-main-navigation__dropdown-grid"> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/new-cars" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Новые авто</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1112</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/used-cars" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">С пробегом</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;35 368</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/nds" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Цена с НДС</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;903</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/?price%5Bto%5D=4000&amp;price%5Bcurrency%5D=byn" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Авто до 4000 р.</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;5766</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/?price%5Bto%5D=10000&amp;price%5Bcurrency%5D=byn" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Авто до 10 000 р.</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;13 107</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/?price%5Bto%5D=20000&amp;price%5Bcurrency%5D=byn" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Авто до 20 000 р.</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;22 169</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/city/minsk" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Минск</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;17 074</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/city/gomel" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Гомель</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1014</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/city/mogilev" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Могилев</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;980</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/city/vitebsk" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Витебск</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;940</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/city/grodno" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Гродно</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;770</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/city/brest" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Брест</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;849</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/audi" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Audi</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;2389</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/bmw" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">BMW</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;2938</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/citroen" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Citroen</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1410</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/ford" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Ford</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;2599</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/mazda" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Mazda</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1204</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/mercedes-benz" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Mercedes-Benz</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;2368</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/nissan" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Nissan</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1285</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/opel" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Opel</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;2282</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/peugeot" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Peugeot</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1651</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/renault" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Renault</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;2237</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/toyota" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Toyota</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1329</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://ab.onliner.by/volkswagen" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Volkswagen</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;3787</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                  </div> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://ab.onliner.by" class="b-main-navigation__dropdown-button">37 177 объявлений</a> 
+                 </div> 
+                </div> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_25"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://mb.onliner.by" class="b-main-navigation__dropdown-title-link">Мотобарахолка</a> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-wrapper"> 
+                  <div class="b-main-navigation__dropdown-grid"> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][2]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Aprilia</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;35</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][7]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">BMW</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;156</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][17]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Harley-Davidson</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;164</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][18]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Honda</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;637</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][19]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">HORS</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;30</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][67]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Jawa</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;28</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][24]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Kawasaki</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;325</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][49]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Suzuki</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;353</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][57]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Viper</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;4</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][59]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Yamaha</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;418</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][70]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Днепр</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;24</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://mb.onliner.by#moto[0][63]=" class="b-main-navigation__dropdown-advert-link b-main-navigation__dropdown-advert-link_filter"> <span class="b-main-navigation__dropdown-advert-sign">Минск</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;117</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                  </div> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://mb.onliner.by" class="b-main-navigation__dropdown-button">2989 объявлений</a> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> </li> 
+           <li class="b-main-navigation__item b-main-navigation__item_arrow"> <a href="https://r.onliner.by/pk" class="b-main-navigation__link"> <span class="b-main-navigation__text">Дома и квартиры</span> </a> 
+            <div class="b-main-navigation__dropdown"> 
+             <div class="g-top-i"> 
+              <div class="b-main-navigation__dropdown-wrapper"> 
+               <div class="b-main-navigation__dropdown-grid"> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_50"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://r.onliner.by/pk" class="b-main-navigation__dropdown-title-link">Продажа</a> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-wrapper"> 
+                  <div class="b-main-navigation__dropdown-grid"> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#bounds%5Blb%5D%5Blat%5D=53.820922446131&amp;bounds%5Blb%5D%5Blong%5D=27.344970703125&amp;bounds%5Brt%5D%5Blat%5D=53.97547425743&amp;bounds%5Brt%5D%5Blong%5D=27.77961730957" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Минск</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;7109</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#bounds%5Blb%5D%5Blat%5D=51.941725203142&amp;bounds%5Blb%5D%5Blong%5D=23.492889404297&amp;bounds%5Brt%5D%5Blat%5D=52.234528294214&amp;bounds%5Brt%5D%5Blong%5D=23.927536010742" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Брест</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;3915</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#bounds%5Blb%5D%5Blat%5D=55.085834940707&amp;bounds%5Blb%5D%5Blong%5D=29.979629516602&amp;bounds%5Brt%5D%5Blat%5D=55.357648391381&amp;bounds%5Brt%5D%5Blong%5D=30.414276123047" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Витебск</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;449</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#bounds%5Blb%5D%5Blat%5D=52.302600726968&amp;bounds%5Blb%5D%5Blong%5D=30.732192993164&amp;bounds%5Brt%5D%5Blat%5D=52.593037841157&amp;bounds%5Brt%5D%5Blong%5D=31.166839599609" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Гомель</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;317</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#bounds%5Blb%5D%5Blat%5D=53.538267122397&amp;bounds%5Blb%5D%5Blong%5D=23.629531860352&amp;bounds%5Brt%5D%5Blat%5D=53.820517109806&amp;bounds%5Brt%5D%5Blong%5D=24.064178466797" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Гродно</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;191</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#bounds%5Blb%5D%5Blat%5D=53.74261986683&amp;bounds%5Blb%5D%5Blong%5D=30.132064819336&amp;bounds%5Brt%5D%5Blat%5D=54.023503252809&amp;bounds%5Brt%5D%5Blong%5D=30.566711425781" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Могилев</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;163</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/?number_of_rooms%5B%5D=1" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">1-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;3658</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/?number_of_rooms%5B%5D=2" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">2-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;5812</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/?number_of_rooms%5B%5D=3" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">3-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;5563</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/?number_of_rooms%5B%5D=4&amp;number_of_rooms%5B%5D=5&amp;number_of_rooms%5B%5D=6" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">4+-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;3563</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#price%5Bmax%5D=30000&amp;currency=usd" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">До 30 000 $</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;4022</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#price%5Bmin%5D=30000&amp;price%5Bmax%5D=80000&amp;currency=usd" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">30 000–80 000 $</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;9523</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/pk/#price%5Bmin%5D=80000&amp;currency=usd" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">От 80 000 $</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;5305</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                  </div> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://r.onliner.by/pk" class="b-main-navigation__dropdown-button"> 18596 объявлений </a> 
+                 </div> 
+                </div> 
+                <div class="b-main-navigation__dropdown-column b-main-navigation__dropdown-column_50"> 
+                 <div class="b-main-navigation__dropdown-title"> <a href="https://r.onliner.by/ak" class="b-main-navigation__dropdown-title-link">Аренда</a> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-wrapper"> 
+                  <div class="b-main-navigation__dropdown-grid"> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#bounds%5Blb%5D%5Blat%5D=53.820922446131&amp;bounds%5Blb%5D%5Blong%5D=27.344970703125&amp;bounds%5Brt%5D%5Blat%5D=53.97547425743&amp;bounds%5Brt%5D%5Blong%5D=27.77961730957" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Минск</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;4074</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#bounds%5Blb%5D%5Blat%5D=51.941725203142&amp;bounds%5Blb%5D%5Blong%5D=23.492889404297&amp;bounds%5Brt%5D%5Blat%5D=52.234528294214&amp;bounds%5Brt%5D%5Blong%5D=23.927536010742" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Брест</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;35</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#bounds%5Blb%5D%5Blat%5D=55.085834940707&amp;bounds%5Blb%5D%5Blong%5D=29.979629516602&amp;bounds%5Brt%5D%5Blat%5D=55.357648391381&amp;bounds%5Brt%5D%5Blong%5D=30.414276123047" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Витебск</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;22</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#bounds%5Blb%5D%5Blat%5D=52.302600726968&amp;bounds%5Blb%5D%5Blong%5D=30.732192993164&amp;bounds%5Brt%5D%5Blat%5D=52.593037841157&amp;bounds%5Brt%5D%5Blong%5D=31.166839599609" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Гомель</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;34</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#bounds%5Blb%5D%5Blat%5D=53.538267122397&amp;bounds%5Blb%5D%5Blong%5D=23.629531860352&amp;bounds%5Brt%5D%5Blat%5D=53.820517109806&amp;bounds%5Brt%5D%5Blong%5D=24.064178466797" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Гродно</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;20</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#bounds%5Blb%5D%5Blat%5D=53.74261986683&amp;bounds%5Blb%5D%5Blong%5D=30.132064819336&amp;bounds%5Brt%5D%5Blat%5D=54.023503252809&amp;bounds%5Brt%5D%5Blong%5D=30.566711425781" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Могилев</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;26</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/?rent_type%5B%5D=1_room" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">1-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1378</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/?rent_type%5B%5D=2_rooms" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">2-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1597</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/?rent_type%5B%5D=3_rooms" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">3-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;801</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/?rent_type%5B%5D=4_rooms&amp;rent_type%5B%5D=5_rooms&amp;rent_type%5B%5D=6_rooms" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">4+-комнатные</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;287</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/?rent_type%5B%5D=room" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">Комнаты</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;399</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                   <div class="b-main-navigation__dropdown-column"> 
+                    <ul class="b-main-navigation__dropdown-advert-list"> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/?only_owner=true" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">От собственника</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;3032</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#price%5Bmax%5D=250&amp;currency=usd" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">До 250 $</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1032</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#price%5Bmin%5D=250&amp;price%5Bmax%5D=500&amp;currency=usd" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">250-500 $</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;2412</span> </a> </li> 
+                     <li class="b-main-navigation__dropdown-advert-item"> <a href="https://r.onliner.by/ak/#price%5Bmin%5D=500&amp;currency=usd" class="b-main-navigation__dropdown-advert-link"> <span class="b-main-navigation__dropdown-advert-sign">От 500 $</span> <span class="b-main-navigation__dropdown-advert-value">&nbsp;1457</span> </a> </li> 
+                    </ul> 
+                   </div> 
+                  </div> 
+                 </div> 
+                 <div class="b-main-navigation__dropdown-control"> <a href="https://r.onliner.by/ak" class="b-main-navigation__dropdown-button"> 4462 объявления </a> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> </li> 
+           <li class="b-main-navigation__item"> <a href="https://s.onliner.by/tasks" class="b-main-navigation__link"> <span class="b-main-navigation__text">Услуги</span> </a> </li> 
+           <li class="b-main-navigation__item"> <a href="https://baraholka.onliner.by/" class="b-main-navigation__link"> <span class="b-main-navigation__text">Барахолка</span> </a> </li> 
+           <li class="b-main-navigation__item"> <a href="https://forum.onliner.by/" class="b-main-navigation__link"> <span class="b-main-navigation__text">Форум</span> </a> </li> 
+          </ul> <!--/Main-navigation--> <!-- Informers --> 
+          <ul class="b-top-navigation-informers helpers_hide_desktop"> 
+           <li class="b-top-navigation-informers__item top-informer-currency" id="currency-informer" data-bind="css: {'up': $root.grow === 1,
+                     'down': $root.grow === -1}"> <a class="b-top-navigation-informers__link" href="https://kurs.onliner.by/" data-bind="visible: true"> <span class="_u" data-bind="text: '$ ' + $root.amount"></span> </a> </li> 
+           <li class="b-top-navigation-informers__item top-informer-weather" id="weather-informer"> <a class="b-top-navigation-informers__link" href="https://pogoda.onliner.by/" data-bind="visible: true" style="display: none;"> <i data-bind="attr: {'title': 'Погода в ' + $root.city, class: 'phenomena-icon extra-small ' + $root.icon}"></i> <span class="_u" data-bind="text: $root.temperature + '°'"></span> </a> </li> 
+          </ul> <!-- / Informers --> <!-- Age --> 
+          <div class="b-top-navigation-age">
+           18+
+          </div> <!-- / Age --> <!--Cart-navigation--> 
+          <ul class="b-top-navigation-cart" id="b-top-navigation-cart"> 
+           <li class="b-top-navigation-cart__item" style="display: none;" data-bind="css: {'b-top-navigation-cart__item_active': $root.quantity()},
+                         visible: $root.quantity() || $root.quantity() === 0"> <a href="https://cart.onliner.by/" class="b-top-navigation-cart__link"> <!-- ko if: $root.quantity() --> <span data-bind="text: $root.quantity() + ' ' + format.pluralForm($root.quantity(), ['товар', 'товара', 'товаров'])"></span> <!-- /ko --> <!-- ko if: !$root.quantity() --> <span>Корзина</span> <!-- /ko --> </a> </li> 
+          </ul> <!--/Cart-navigation--> 
+         </nav> 
+        </div> 
+       </div> <!--/Top-navigation--> 
+       <div class="b-top-actions"> 
+        <div class="g-top-i"> 
+         <div class="b-top-logo"> <a href="https://www.onliner.by/"> <img srcset="https://gc.onliner.by/images/logo/onliner_logo.v3.png?token=1587727312,
+                     https://gc.onliner.by/images/logo/onliner_logo.v3@2x.png?token=1587727312 2x" src="https://gc.onliner.by/images/logo/onliner_logo.v3@2x.png?token=1587727312" width="180" height="40" alt="Onliner" class="onliner_logo"> </a> 
+         </div> 
+         <div class="b-top-wrapper"> 
+          <div id="fast-search" class="fast-search"> <!-- .fast-search_legacy for legacy design --> 
+           <form class="fast-search__form" action="//catalog.onliner.by/search/" method="get" autocomplete="off"> 
+            <input class="fast-search__input" type="text" placeholder="Поиск в Каталоге. Например, &quot;планшет ipad air&quot;" tabindex="1" name="query" value="" data-project="onliner_main"> 
+            <input type="hidden" name="charset" value="utf-8"> <button class="fast-search__submit" type="submit">Найти</button> 
+           </form> 
+          </div> 
+          <div id="userbar" class="b-top-profile js-userbar"> 
+           <div class="b-top-profile__list"> <!-- ko if: $root.currentUser.id() --> 
+            <div class="b-top-profile__item b-top-profile__item_arrow" data-bind="visible: $root.currentUser.id()" style="display: none;"> <a href="https://profile.onliner.by" class="b-top-profile__preview js-toggle-bar"> 
+              <div class="b-top-profile__image js-header-user-avatar" data-bind="style: { backgroundImage: 'url(\'https://content.onliner.by/user/avatar/60x60/' + $root.currentUser.id() + '?v=' +$root.randomHash() + '\')' }"> 
+              </div> </a> 
+             <div class="b-top-profile__dropdown b-top-profile__dropdown_user js-stop-propagation js-top-profile-dropdown"> 
+              <div class="b-top-profile__header"> 
+               <div class="b-top-profile__flex"> 
+                <div class="b-top-profile__part b-top-profile__part_1"> 
+                 <div class="b-top-profile__name"> <a href="https://profile.onliner.by" class="b-top-profile__link b-top-profile__link_alter" data-bind="html: $root.currentUser.nickname"> </a> 
+                 </div> 
+                </div> 
+                <div class="b-top-profile__part b-top-profile__part_2"> 
+                 <div class="b-top-profile__logout"> <a class="b-top-profile__link b-top-profile__link_secondary" data-bind="click: $root.currentUser.logout"> Выйти </a> 
+                 </div> 
+                </div> 
+               </div> 
+               <div class="b-top-profile__close"></div> 
+              </div> 
+              <div class="b-top-profile__body"> 
+               <div class="b-top-profile__overflow js-top-profile-overflow"> 
+                <div class="b-top-profile__sublist"> <!-- ko if: $root.cartQuantity() !== undefined && $root.cartQuantity() > 0 --> 
+                 <div class="b-top-profile__subitem b-top-profile__subitem_basket"> <a href="https://cart.onliner.by" class="b-top-profile__link b-top-profile__link_alter"> <span data-bind="text: $root.cartQuantity() + ' ' + format.pluralForm($root.cartQuantity(), ['товар в корзине', 'товара в корзине', 'товаров в корзине'])"></span> </a> 
+                 </div> <!-- /ko --> <!-- ko if: !$root.cartQuantity() --> 
+                 <div class="b-top-profile__subitem b-top-profile__subitem_basket"> <a href="https://cart.onliner.by" class="b-top-profile__link b-top-profile__link_alter"> Корзина </a> 
+                 </div> <!-- /ko --> 
+                 <div class="b-top-profile__subitem b-top-profile__subitem_history"> <a href="https://cart.onliner.by/orders" class="b-top-profile__link b-top-profile__link_alter"> История заказов </a> 
+                 </div> 
+                 <div class="b-top-profile__subitem b-top-profile__subitem_subscriptions"> <a href="https://profile.onliner.by/subscriptions" class="b-top-profile__link b-top-profile__link_alter"> Список подписок </a> 
+                 </div> 
+                </div> 
+                <div class="b-top-profile__divider"></div> 
+                <div class="b-top-profile__sublist"> 
+                 <div class="b-top-profile__subitem b-top-profile__subitem_arrow"> <span class="b-top-profile__link b-top-profile__link_alter js-open-submenu"> Мои объявления </span> 
+                  <div class="b-top-profile__sublist"> 
+                   <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://baraholka.onliner.by/search.php?type=ufleamarket&amp;id=' + $root.currentUser.id()}"> Объявления в барахолке </a> 
+                   </div> 
+                   <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://catalog.onliner.by/used/users/' + $root.currentUser.id()}"> Объявления в каталоге </a> 
+                   </div> 
+                   <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://ab.onliner.by/vehicles/active'}"> Автообъявления </a> 
+                   </div> 
+                   <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://mb.onliner.by/mymoto/' + $root.currentUser.id()}"> Мотообъявления </a> 
+                   </div> 
+                   <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://r.onliner.by/ak/users/' + $root.currentUser.id() + '/apartments'}"> Oбъявления об Аренде квартир </a> 
+                   </div> 
+                   <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://r.onliner.by/pk/users/' + $root.currentUser.id() + '/apartments'}"> Oбъявления о Продаже квартир </a> 
+                   </div> 
+                   <div class="b-top-profile__subitem"> <a href="https://s.onliner.by/tasks?my_tasks=true" class="b-top-profile__link b-top-profile__link_alter"> Заказы на сервисе «Услуги» </a> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+                <div class="b-top-profile__divider"></div> 
+                <div class="b-top-profile__sublist"> 
+                 <div class="b-top-profile__subitem"> <a href="https://profile.onliner.by/reviews/shop" class="b-top-profile__link b-top-profile__link_alter"> Отзывы на магазины </a> 
+                 </div> 
+                 <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://forum.onliner.by/search.php?type=utopics&amp;id=' + $root.currentUser.id()}"> Темы на форуме </a> 
+                 </div> 
+                 <div class="b-top-profile__subitem"> <a class="b-top-profile__link b-top-profile__link_alter" data-bind="attr: {href: 'https://forum.onliner.by/search.php?type=uposts&amp;id=' + $root.currentUser.id()}"> Сообщения на форуме и барахолке </a> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+              <div class="b-top-profile__footer js-top-profile-footer"> 
+               <div class="b-top-profile__flex"> 
+                <div class="b-top-profile__part b-top-profile__part_1"> <a title="Редактировать личные данные" href="https://profile.onliner.by/personal" class="b-top-profile__settings"></a> 
+                </div> 
+                <div class="b-top-profile__part b-top-profile__part_2"> 
+                 <div class="b-top-profile__rules"> <a title="Пользовательское соглашение" href="https://blog.onliner.by/siterules" class="b-top-profile__link b-top-profile__link_secondary"> Пользовательское соглашение </a> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+            <style>
+            [v-cloak] {
+                display: none;
+            }
+        </style> 
+            <div id="global-chat-app" class="b-top-profile__item" data-bind="visible: $root.currentUser.id()" style="display: none;"> <a href="https://chats.onliner.by" class="b-top-profile__message" v-if="false"></a> <chat-counter inline-template v-cloak> 
+              <a href="https://chats.onliner.by" class="b-top-profile__message" v-if="isMobile || isMobileLayout"> <span class="b-top-profile__counter" v-cloak v-show="newMessagesCounter">{{ newMessagesCounter }}</span> </a> 
+              <a href="https://chats.onliner.by" class="b-top-profile__message js-toggle-bar" v-else @click="initApp"> <span class="b-top-profile__counter" v-cloak v-show="newMessagesCounter">{{ newMessagesCounter }}</span> </a> 
+             </chat-counter> 
+             <template v-if="!isMobile &amp;&amp; !isMobileLayout"> 
+              <div class="b-top-profile__dropdown b-top-profile__dropdown_message js-top-profile-dropdown"> 
+               <div class="b-top-profile__header"> 
+                <div class="b-top-profile__flex"> 
+                 <div class="b-top-profile__part b-top-profile__part_1"> 
+                  <div class="b-top-profile__title" v-cloak v-if="isMobileLayout">
+                    Чаты 
+                  </div> 
+                  <div class="b-top-profile__title" v-else> <a href="https://chats.onliner.by" class="b-top-profile__link b-top-profile__link_alter"> Чаты </a> 
+                  </div> 
+                 </div> 
+                 <div class="b-top-profile__part b-top-profile__part_2"></div> 
+                </div> 
+                <div class="b-top-profile__close js-close-popup"></div> 
+               </div> 
+               <div class="b-top-profile__body"> 
+                <div class="b-top-profile__overflow"> 
+                 <div class="chat-offers" v-cloak :class="{ 'chat-offers_animated': listIsLoading}"> 
+                  <template v-if="selectedGroup.chats"> <chat-list-group-header :group="selectedGroup"></chat-list-group-header> 
+                   <div class="chat-offers__body"> <chat-list :chats-list="selectedGroup" :is-group="true" :do-show-list="true" :group-key="selectedGroup.groupKey"></chat-list> 
+                   </div> 
+                  </template> 
+                  <div class="chat-offers__body" v-else> <chat-list :chats-list="rootChatList" :do-show-list="true" :additional-classes="'js-top-profile-overflow'"></chat-list> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </template> 
+            </div> <!-- ko with: $root.notificationsList --> 
+            <div id="notifications-list" class="b-top-profile__item" data-bind="visible: $root.currentUser.id()" style="display: none;"> <a href="#" class="b-top-profile__notice js-toggle-bar"> <span class="b-top-profile__counter" data-bind="text: $data.newFeedsCounter() > 99 ? '99+' : $data.newFeedsCounter(),
+                         visible: $data.newFeedsCounter()"></span> </a> 
+             <div class="b-top-profile__dropdown b-top-profile__dropdown_notice js-top-profile-dropdown"> 
+              <div class="b-top-profile__header"> 
+               <div class="b-top-profile__flex"> 
+                <div class="b-top-profile__part b-top-profile__part_1"> 
+                 <div class="b-top-profile__title">
+                   Уведомления 
+                 </div> 
+                </div> 
+                <div class="b-top-profile__part b-top-profile__part_2"> 
+                 <div class="b-top-profile__select"> <a href="#" class="b-top-profile__link b-top-profile__link_secondary" data-bind="click: $data.markAllAsRead.bind($data)"> Отметить все как прочитанные </a> 
+                 </div> 
+                </div> 
+               </div> 
+               <div class="b-top-profile__close js-close-popup"></div> 
+              </div> 
+              <div class="b-top-profile__body"> 
+               <div class="b-top-profile__overflow js-notifications-scrollable js-top-profile-overflow"> 
+                <div class="b-top-profile__control"> <a href="#" class="b-top-profile__button b-top-profile__button_new" style="display: none" data-bind="visible: $data.newMessagesButtonVisible() &amp;&amp; $data.newFeedsCounter(),
+                              text: $data.newMessagesButtonText(),
+                              click: $data.updateNotificationsList.bind($data)"></a> 
+                </div> 
+                <div class="notice-offers" data-bind="css: { 'notice-offers_animated': $data.isAnimated() }"> 
+                 <div class="notice-offers__list js-notifications-scrollable-content" data-bind="foreach: { data: $data.notificationsList, as: 'notification' }"> <a class="notice-offers__item" data-bind="css: {
+                                        'notice-offers__item_success': notification.type === 'positive',
+                                        'notice-offers__item_warning': notification.type === 'warning',
+                                        'notice-offers__item_error': notification.type === 'negative',
+                                        'notice-offers__item_info': notification.type === 'general',
+                                        'notice-offers__item_visited': notification.isRead() || (!notification.url &amp;&amp; !notification.isNew())
+                                      },
+                                      attr: { href: notification.url },
+                                      style: { 'cursor': notification.url ? 'pointer' : 'default' },
+                                      click: $parent.onFeedClick.bind($parent)"> 
+                   <div class="notice-offers__details"> 
+                    <div class="notice-offers__details-list"> 
+                     <div class="notice-offers__details-item" data-bind="text: notification.project"></div> 
+                     <div class="notice-offers__details-item" data-bind="text: notification.updatedAt"></div> 
+                    </div> 
+                   </div> 
+                   <div class="notice-offers__description" data-bind="html: notification.message"></div> </a> 
+                 </div> 
+                 <div class="notice-offers__loader" data-bind="visible: !$data.isAnimated() &amp;&amp; $data.isProcessing()"></div> 
+                 <div class="notice-offers__message" data-bind="visible: !$data.isAnimated() &amp;&amp; !$data.isProcessing() &amp;&amp; !$data.notificationsList().length"> 
+                  <div class="notice-offers_message-content">
+                    Нет уведомлений 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> <!-- /ko --> 
+            <div class="b-top-profile__item" data-bind="visible: $root.currentUser.id()" style="display: none;"> <a href="https://profile.onliner.by/bookmarks" class="b-top-profile__favorites"></a> 
+            </div> <!-- /ko--> 
+            <div id="cart-desktop" class="b-top-profile__item" data-bind="visible: true" style="display: none;"> <a href="https://cart.onliner.by" class="b-top-profile__cart"> <!-- ko if: $root.cartQuantity --> <span class="b-top-profile__counter" data-bind="text: $root.cartQuantity"></span> <!-- /ko --> </a> 
+            </div> 
+           </div> 
+           <div class="auth-bar auth-bar--top" data-bind="visible: !$root.currentUser.id()" style="display: none;"> 
+            <div id="login-app"></div> 
+           </div> 
+           <div class="auth-bar auth-bar--top" data-bind="visible: !$root.currentUser.id()" style="display: none;"> 
+            <div class="auth-bar auth-bar--top"> <a href="https://cart.onliner.by" title="Корзина" class="auth-bar__item auth-bar__item--cart"> <!-- ko if: $root.cartQuantity --> 
+              <div class="auth-bar__counter" data-bind="text: $root.cartQuantity"> <span class="b-top-profile__counter"></span> 
+              </div> <!-- /ko --> </a> 
+            </div> 
+           </div> 
+          </div> 
+          <div id="guard-app"></div> 
+          <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var eventDispatcher = window.notificationsService.getEventDispatcher();
+
+        window.userbar = window.userbar || {};
+        window.userbar.currentUser = MODELS.currentUser;
+        window.userbar.cartQuantity = window.userbar.cartQuantity || ko.observable();
+        window.userbar.notificationsList = new NotificationsList(eventDispatcher);
+        window.userbar.randomHash = ko.observable(Math.random());
+
+        window.userbar.setNickname = function (nickname) {
+            MODELS.currentUser.nickname(nickname);
+        };
+
+        window.userbar.updateUserAvatar = function () {
+            this.randomHash(Math.random());
+        };
+
+        ko.applyBindings(window.userbar, document.getElementById('userbar'));
+    });
+</script> 
+         </div> 
+        </div> 
+       </div> 
+      </header> <!--/Top--> <!--Middle--> 
+      <div class="g-middle"> 
+       <div class="g-middle-i"> 
+        <div class="project-navigation project-navigation_overflow project-navigation_scroll"> 
+         <div class="project-navigation__flex"> 
+          <div class="project-navigation__part project-navigation__part_1"> <a class="project-navigation__samsung" href="https://catalog.onliner.by/tv/samsung?utm_source=onliner&amp;utm_medium=button&amp;utm_campaign=mainpage"></a> 
+           <ul class="project-navigation__list project-navigation__list_secondary"> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/tv/samsung?utm_source=onliner&amp;utm_medium=button&amp;utm_campaign=mainpage" class="project-navigation__link project-navigation__link_subsidiary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Телевизоры</span> </span> </a> </li> 
+           </ul> 
+           <ul class="project-navigation__list project-navigation__list_secondary"> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/webcams" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Web-камеры</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/headphones" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Наушники и гарнитуры</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/mobile" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Мобильные телефоны</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/coffeejava" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Кофе</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/humidifier" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Увлажнители воздуха</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/breadmaker" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Хлебопечки</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/freeweights" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Гантели, гири, штанги</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/wirelessap" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Беспроводные точки доступа и усилители Wi-Fi</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/catfood" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Корма для кошек</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/foodfordog" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Корма для собак</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/gascylinder" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Туристические горелки и плиты</span> </span> </a> </li> 
+            <li class="project-navigation__item project-navigation__item_secondary"> <a href="https://catalog.onliner.by/electro_meter" class="project-navigation__link project-navigation__link_primary"> <span class="project-navigation__text"> <span class="project-navigation__sign">Счетчики электроэнергии</span> </span> </a> </li> 
+           </ul> 
+          </div> 
+          <div class="project-navigation__part project-navigation__part_2"></div> 
+         </div> 
+        </div> 
+        <script data-cfasync="false">
+(function(E,n,S,t,o,r,y){E['EngStoryObject']=o;E[o]=E[o]||function(){ (E[o].q=E[o].q||[]).push(arguments)},
+E[o].l=1*new Date();r=n.createElement(S), y=n.getElementsByTagName(S)[0];r.async=1;r.src=t;y.parentNode.insertBefore(r,y)
+})(window,document,'script','//widget.engageya.com/story_loader.js','__engStoryWidget');
+__engStoryWidget('createStoryWidget',{wwei:'ENGAGEYA_WIDGET_131417',pubid:194441,webid:206231,wid:131417,iscnclextjqry:1,iccb:1});
+</script> 
+        <style>#ENGAGEYA_WIDGET_131417{min-height:100px;margin-bottom:20px}#eng__attach-placeholder{display:none!important}.eng-stories-row{position:static!important;top:auto!important;left:auto!important;background:0 0!important;z-index:auto!important;width:auto!important;-webkit-box-shadow:none!important;box-shadow:none!important;opacity:1!important;visibility:visible!important;transform:none!important;transition:none!important}.eng-stories-row__header-text-container{display:none}.eng-stories-row__container{max-width:none;margin-left:-10px;margin-right:-10px;padding-left:18px!important;padding-right:18px!important}.eng-stories-row__story{animation:none}.eng-stories-row__story:last-child{padding-right:18px}.eng-stories-row__circle-animation{stroke:#ffda50!important;stroke-dasharray:0;animation:none}.eng-stories-row__story-title{padding-bottom:1px;text-overflow:ellipsis}#eng-story-viewer .eng-story-item__arrow-up,#eng-story-viewer .eng-story-item__link-text,#eng-story-viewer .eng-story-item__share-btn{display:none!important}#eng-story-viewer .eng-story-item__link{max-width:100%;height:32px;padding:9px 17px;font-size:14px;line-height:1;border-radius:3px;border:0;background:#ffda50;color:#000;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;display:inline-block;vertical-align:top;box-sizing:border-box;outline:0;-o-transition:background-color .2s ease,border-color .2s ease,color .2s ease,opacity .2s ease,transform .2s ease;transition:background-color .2s ease,border-color .2s ease,color .2s ease,opacity .2s ease,transform .2s ease;text-align:center;text-decoration:none!important;text-shadow:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;cursor:pointer;font-family:'Open Sans',Arial,Helvetica Neue,Helvetica,sans-serif;-webkit-text-size-adjust:100%}#eng-story-viewer .eng-story-item__link:hover{background:#d9b944;color:#000}#eng-story-viewer .eng-story-item__link:active{background:#b39938;color:#000}#eng-story-viewer .eng-story-item__link:after{content:'Перейти к статье'}#eng-story-viewer .eng-story__close-btn-container{cursor:auto!important}</style> 
+        <div id="ENGAGEYA_WIDGET_131417" class="helpers_show_tablet"></div> 
+        <div class="b-tiles-outer"> 
+         <div class="b-tiles cfix " role="grid"> 
+          <div class="b-tile megabanner m-3x4"> 
+           <div id="adfox_155602066140064500"></div> 
+           <div id="adfox_155602080622518494"></div> 
+           <div id="adfox_155602088736578351"></div> 
+           <style>
+        @media only screen and (max-width: 1000px) {
+            .responsive-layout .megabanner {
+                min-width: 0 !important;
+                position: absolute;
+            }
+        }
+    </style> 
+           <script>
+      window.Ya.adfoxCode.createAdaptive({
+        ownerId: 260941,
+        containerId: 'adfox_155602066140064500',
+        params: {p1: 'cemqy', p2: 'fzvf'}
+      }, ['desktop'], {
+        tabletWidth: 1000,
+        phoneWidth: 640,
+        isAutoReloads: false
+      });
+      window.Ya.adfoxCode.createAdaptive({
+        ownerId: 260941,
+        containerId: 'adfox_155602080622518494',
+        params: {p1: 'cemqz', p2: 'fzvf'}
+      }, ['tablet'], {
+        tabletWidth: 1000,
+        phoneWidth: 640,
+        isAutoReloads: false
+      });
+      window.Ya.adfoxCode.createAdaptive({
+        ownerId: 260941,
+        containerId: 'adfox_155602088736578351',
+        params: {p1: 'cemra', p2: 'fzvf'}
+      }, ['phone'], {
+        tabletWidth: 1000,
+        phoneWidth: 640,
+        isAutoReloads: false
+      });
+    </script> 
+          </div> 
+         </div> 
+         <div class="b-tiles-banner"> 
+          <div id="adfox_154331780165273237"></div> 
+          <script>
+          window.Ya.adfoxCode.createAdaptive({
+            ownerId: 239538,
+            containerId: 'adfox_154331780165273237',
+            params: {
+              p1: 'ccrwc',
+              p2: 'fgou',
+              puid26: 'main'
+            }
+          }, ['desktop', 'tablet'], {
+            tabletWidth: 1000,
+            phoneWidth: 640,
+            isAutoReloads: false
+          });
+        </script> 
+         </div> 
+        </div> 
+        <div id="adfox_154469864721127801"></div> 
+        <script>
+  window.Ya.adfoxCode.createScroll({
+    ownerId: 239538,
+    containerId: 'adfox_154469864721127801',
+    params: {
+      p1: 'ccyll',
+      p2: 'fork',
+      puid26: 'main'
+    }
+  }, ['phone'], {
+    tabletWidth: 1000,
+    phoneWidth: 640,
+    isAutoReloads: false
+  });
+</script> 
+        <div class="b-main-page-grid-4 b-main-page-news-2"> 
+         <header class="b-main-page-blocks-header-2 cfix"> 
+          <h2> <a href="https://people.onliner.by">Люди</a> </h2> <a href="https://people.onliner.by/feed" class="icon-rss" title="RSS"> <span>RSS</span> </a> <a href="https://sp.onliner.by/covid-19?utm_source=mainnew&amp;utm_medium=mainnew" class="b-main-page-bubble b-main-page-bubble_primary">Коронавирус. Цифры</a> 
+         </header> 
+         <ul class="b-teasers-2 cfix"> 
+          <li class="b-teasers-2__teaser"> <a href="https://people.onliner.by/2020/04/27/roditelyam-detej-kontaktov-do-10-let-s-respiratornymi-simptomami-vyplatyat-posobie" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/9ff8009654c7c6734f1884808c067843.jpeg)"> 
+            <div class="text"> <span class="text-i">Родителям детей-контактов до 10 лет с респираторными симптомами выплатят пособие</span> <span class="comments-number">161 комментарий за 20 часов</span> 
+            </div> <i class="b-teaser-2-grad m-red"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://people.onliner.by/2020/04/27/chto-tam-v-stolbcax-poyavilis-cifry-po-centralnoj-rajonnoj-bolnice" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/7800d59219015a0cc9b7daa4d397e479.jpeg)"> 
+            <div class="text"> <span class="text-i">Что там в Столбцах? Появились цифры по Центральной районной больнице</span> <span class="comments-number">450 комментариев за 21 час</span> 
+            </div> <i class="b-teaser-2-grad m-green"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://people.onliner.by/2020/04/27/veterany-izolyacii" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/2b0c742f46893ec3e1986b1028dc3e53.jpeg)"> 
+            <div class="text"> <span class="text-i">Ветераны изоляции рассказывают о жизни в четырех стенах</span> <span class="comments-number">581 комментарий за 1 день</span> 
+            </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://people.onliner.by/2020/04/26/lukashenko-trebuet-ne-prosit-deneg" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/68fe3d26f17be7ac0535dfd2d3692358.jpeg)"> 
+            <div class="text"> <span class="text-i">Лукашенко требует от регионов не просить денег, а искать рынки сбыта</span> <span class="comments-number">866 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-red"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://people.onliner.by/2020/04/25/ukaz-o-podderzhke-ekonomiki-zapozdal" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/27fec1deb0126d7f10e14ee6af323abe.jpeg)"> 
+            <div class="text"> <span class="text-i">«Бизнес ожидал большей поддержки, но первый шаг сделан»</span> <span class="comments-number">325 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-green"></i> </a> </li> 
+         </ul> 
+         <div class="b-main-page-grid-4-i sep-lines-type-1 cfix"> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__main-news-col"> 
+           <section class="b-main-page-news-2__main-news"> 
+            <figure> <a href="https://people.onliner.by/2020/04/28/vlozhil-30-tysyach-dollarov-dva-goda-vse-shlo-kraxom-grodnenec-otkryl-kafe-za-mesyac-do-nachala-koronavirusa-i-ne-panikuet"> <img data-src="https://content.onliner.by/news/main/2c7c9fbc27cae7f44ef541fc81bb8331.jpeg" class="b-section-main__col-fig" width="572" height="276"> </a> 
+            </figure> 
+            <article class="cfix"> 
+             <div class="b-main-page-news-2__main-news-title"> 
+              <div class="tag"> <a href="https://people.onliner.by/category/socium"> Социум </a> 
+              </div> 
+              <h2> <a href="https://people.onliner.by/2020/04/28/vlozhil-30-tysyach-dollarov-dva-goda-vse-shlo-kraxom-grodnenec-otkryl-kafe-za-mesyac-do-nachala-koronavirusa-i-ne-panikuet"> <span class="helpers_hide_mobile-small">«Вложил $30 тысяч — два года все шло прахом». Гродненец открыл кафе за месяц до начала коронавируса и не паникует</span> <span class="helpers_show_mobile-small">Гродненец открыл кафе за месяц до начала коронавируса и не паникует</span> </a> </h2> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 24 503 <i class="b-icon-3"></i> </span> <a href="https://people.onliner.by/2020/04/28/vlozhil-30-tysyach-dollarov-dva-goda-vse-shlo-kraxom-grodnenec-otkryl-kafe-za-mesyac-do-nachala-koronavirusa-i-ne-panikuet#comments" class="complementary-item comments"> 372 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">5 часов назад</span> 
+              </div> 
+             </div> 
+             <div class="b-main-page-news-2__main-news-text"> 
+              <p>Это был докоронавирусный Гродно, когда пустыми улицы делала не самоизоляция, а мороз. Павильон на автобусной остановке напоминал скорее газетный киоск, и тонированные окна никак не выдавали, что за ними готовится что-то вкусное. Но мы поймали спойлер еще задолго до поездки, так что знали, зачем туда идем, и уверенно стучали в двери кафе. В эти 20 кв. м было вложено около $30 тыс., два года сил и куча потраченных нервов.</p> 
+             </div> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x1 news-2__secondary-news-col"> 
+           <section class="b-main-page-news-2__secondary-news"> 
+            <article> 
+             <figure> <a href="https://people.onliner.by/2020/04/28/belarus-obognala-polshu-po-vyyavlennym-sluchayam-covid-19"> <img data-src="https://content.onliner.by/news/submain/06a815eadfc075806e6c1a001d539a20.jpeg" class="b-section-main__col-fig"> </a> 
+             </figure> 
+             <h2> <a href="https://people.onliner.by/2020/04/28/belarus-obognala-polshu-po-vyyavlennym-sluchayam-covid-19">Беларусь обогнала Польшу по выявленным случаям COVID-19</a> </h2> 
+             <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 14 910 <i class="b-icon-3"></i> </span> <a href="https://people.onliner.by/2020/04/28/belarus-obognala-polshu-po-vyyavlennym-sluchayam-covid-19#comments" class="complementary-item comments"> 563 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 час назад</span> 
+             </div> 
+             <p class="b-section-main__col-txt">Сегодня Министерство здравоохранения Беларуси опубликовало актуальные цифры по коронавирусу: за все время зарегистрировано 12 208 случаев (+919 за сутки). Минздрав Польши тоже поделился свежей статистикой: 187 случаев за минувшие сутки. Суммарно в соседней стране теперь 12 089 выявленных случаев COVID-19.</p> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__news-list-col"> 
+           <ul class="b-main-page-news-2__news-list"> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://people.onliner.by/2020/04/28/coronavirus-v-belarusi-28-april"> <img data-src="https://content.onliner.by/news/submain/3202f9cef4ae9ee20f0cb224610e9599.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://people.onliner.by/2020/04/28/coronavirus-v-belarusi-28-april"> <span class="helpers_hide_mobile-small">12 208 (+919) случаев коронавируса в Беларуси. Скончалось 79 (+4) человек</span> <span class="helpers_show_mobile-small">12 208 случаев коронавируса в Беларуси</span> </a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 26 868 <i class="b-icon-3"></i> </span> <a href="https://people.onliner.by/2020/04/28/coronavirus-v-belarusi-28-april#comments" class="complementary-item comments"> 921 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 час назад</span> 
+              </div> 
+              <p>Появились новые данные от Министерства здравоохранения по ситуации с коронавирусной инфекцией. На 28 апреля за все время выявлено 12 208 случаев COVID-19.</p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://people.onliner.by/2020/04/28/skivica-i-kommentatory"> <img data-src="https://content.onliner.by/news/submain/8cbc4691809ecb97f3bc80677dff768e.jpeg"> </a> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item video"> <i class="b-icon-3"></i> </span> </span> 
+              </div> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://people.onliner.by/2020/04/28/skivica-i-kommentatory">Скивица и обострение сарказма: листаем комментарии</a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 6759 <i class="b-icon-3"></i> </span> <a href="https://people.onliner.by/2020/04/28/skivica-i-kommentatory#comments" class="complementary-item comments"> 117 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">3 часа назад</span> 
+              </div> 
+              <p>Все разговоры теперь обязаны крутиться вокруг сами знаете чего. Открылся новый магазин, выпустили телефон, упал доллар, аист снес яйцо, подскочил доллар, это был не аист, на Слонимщине видели BMW с поворотниками (узнайте, что он сделал: видеофакт) — всё будем разглядывать через вирусную призму. </p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://people.onliner.by/2020/04/27/v-lyadenskom-muzhskom-monastyre-karantin-do-10-maya"> <img data-src="https://content.onliner.by/news/submain/7b8077fea7156f4a3aca1109ce01d9de.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://people.onliner.by/2020/04/27/v-lyadenskom-muzhskom-monastyre-karantin-do-10-maya">В Ляденском мужском монастыре карантин до 10 мая</a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 15 544 <i class="b-icon-3"></i> </span> <a href="https://people.onliner.by/2020/04/27/v-lyadenskom-muzhskom-monastyre-karantin-do-10-maya#comments" class="complementary-item comments"> 234 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">17 часов назад</span> 
+              </div> 
+              <p>Читатель Onliner Владимир (имя изменено) сообщил о карантине в Ляденском Свято-Благовещенском мужском монастыре в деревне Малые Ляды. Эту информацию нам подтвердил дежурный монастыря.</p> 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+         <footer class="b-main-page-blocks-footer-3 b-main-page-blocks-footer-3_specific cfix"> <a href="https://people.onliner.by" class="footer-3-button">Все новости о людях</a> 
+         </footer> 
+        </div> 
+        <div class="b-main-page-grid-4 b-main-page-news-2"> <!--Header--> 
+         <header class="b-main-page-blocks-header-2 cfix"> 
+          <h2> <a href="https://people.onliner.by/opinions">Мнения</a> </h2> 
+         </header> <!--/ Header--> 
+         <ul class="b-opinions-main-2" data-vr-zone="Main page opinions"> 
+          <li class="b-opinions-main-2__tile b-opinions-main-2__tile_red"> 
+           <div data-style="background-image: url(https://content.onliner.by/news/550x298/760da0f33d0f46e47cbed409e378e743.jpeg)" class="b-opinions-main-2__inner" data-vr-contentbox="opinion-742492" data-vr-contentbox-url="https://people.onliner.by/opinions/2020/04/26/pochemu-v-aprele-1986-go-molchali-o-chernobyle"> <a href="https://people.onliner.by/opinions/2020/04/26/pochemu-v-aprele-1986-go-molchali-o-chernobyle" class="b-opinions-main-2__link"><span data-style="background-image: url(https://content.onliner.by/news/160x160/30c18388fb5516979b533c2e66b1d27d.jpeg)" class="b-opinions-main-2__portrait"></span></a> 
+            <div class="b-opinions-main-2__texts"> 
+             <div class="b-opinions-main-2__text" data-vr-headline>
+              Разговор с историком о том, почему в апреле 1986-го молчали о Чернобыле.
+             </div> 
+             <div class="b-opinions-main-2__author"> <nobr></nobr>
+             </div>
+            </div> <a href="https://people.onliner.by/opinions/2020/04/26/pochemu-v-aprele-1986-go-molchali-o-chernobyle#comments" class="b-opinions-main-2__comments b-tile-comments"> <b><span>1332</span></b> </a> 
+           </div> </li> 
+          <li class="b-opinions-main-2__tile b-opinions-main-2__tile_blue"> 
+           <div data-style="background-image: url(https://content.onliner.by/news/550x298/76b11418ef7fc901143198286fa6c923.jpeg)" class="b-opinions-main-2__inner" data-vr-contentbox="opinion-741361" data-vr-contentbox-url="https://people.onliner.by/opinions/2020/04/23/mnenie-1260"> <a href="https://people.onliner.by/opinions/2020/04/23/mnenie-1260" class="b-opinions-main-2__link"><span data-style="background-image: url(https://content.onliner.by/news/160x160/9f20c76b6eee15f843987ac361c07d8a.jpeg)" class="b-opinions-main-2__portrait"></span></a> 
+            <div class="b-opinions-main-2__texts"> 
+             <div class="b-opinions-main-2__text" data-vr-headline>
+              Когда теряю сознание, люди просто проходят мимо.
+             </div> 
+             <div class="b-opinions-main-2__author">
+              Больная эпилепсией <nobr>
+               Анастасия Вашкевич
+              </nobr>
+             </div>
+            </div> <a href="https://people.onliner.by/opinions/2020/04/23/mnenie-1260#comments" class="b-opinions-main-2__comments b-tile-comments"> <b><span>733</span></b> </a> 
+           </div> </li> 
+          <li class="b-opinions-main-2__tile b-opinions-main-2__tile_green"> 
+           <div data-style="background-image: url(https://content.onliner.by/news/550x298/c16758a1dc8a4d0a1bde030f3ba0b560.jpeg)" class="b-opinions-main-2__inner" data-vr-contentbox="opinion-740463" data-vr-contentbox-url="https://people.onliner.by/opinions/2020/04/21/mnenie-1259"> <a href="https://people.onliner.by/opinions/2020/04/21/mnenie-1259" class="b-opinions-main-2__link"><span data-style="background-image: url(https://content.onliner.by/news/160x160/470868bb2befd047bb68efcc0b4b6e8b.jpeg)" class="b-opinions-main-2__portrait"></span></a> 
+            <div class="b-opinions-main-2__texts"> 
+             <div class="b-opinions-main-2__text" data-vr-headline>
+              Зумер Артем Шалак: сегодня школьник может учить взрослого.
+             </div> 
+             <div class="b-opinions-main-2__author"> <nobr></nobr>
+             </div>
+            </div> <a href="https://people.onliner.by/opinions/2020/04/21/mnenie-1259#comments" class="b-opinions-main-2__comments b-tile-comments"> <b><span>928</span></b> </a> 
+           </div> </li> 
+          <li class="b-opinions-main-2__tile b-opinions-main-2__tile_red"> 
+           <div data-style="background-image: url(https://content.onliner.by/news/550x298/fd2e6f9ede4c55c1701cd1d0ef2232f7.jpeg)" class="b-opinions-main-2__inner" data-vr-contentbox="opinion-738760" data-vr-contentbox-url="https://people.onliner.by/opinions/2020/04/17/mnenie-1258"> <a href="https://people.onliner.by/opinions/2020/04/17/mnenie-1258" class="b-opinions-main-2__link"><span data-style="background-image: url(https://content.onliner.by/news/160x160/773f43788794026e822f817e9f2660d5.jpeg)" class="b-opinions-main-2__portrait"></span></a> 
+            <div class="b-opinions-main-2__texts"> 
+             <div class="b-opinions-main-2__text" data-vr-headline>
+              Эпоха «красных директоров» уходит, сотрудники-рабы больше не нужны.
+             </div> 
+             <div class="b-opinions-main-2__author">
+              Предприниматель <nobr>
+               Сергей Колесников
+              </nobr>
+             </div>
+            </div> <a href="https://people.onliner.by/opinions/2020/04/17/mnenie-1258#comments" class="b-opinions-main-2__comments b-tile-comments"> <b><span>707</span></b> </a> 
+           </div> </li> 
+         </ul> <!--Footer--> 
+         <footer class="b-main-page-blocks-footer-3 b-main-page-blocks-footer-3_specific cfix"> <a href="https://people.onliner.by/opinions" class="footer-3-button">Все мнения</a> 
+         </footer> <!--/ Footer--> 
+        </div> 
+        <div class="b-main-page-grid-4 b-main-page-news-2"> 
+         <header class="b-main-page-blocks-header-2 cfix"> 
+          <h2> <a href="https://auto.onliner.by">Авто</a> </h2> <a href="https://auto.onliner.by/feed" class="icon-rss" title="RSS"> <span>RSS</span> </a> <a href="https://hyundai.by/?utm_source=onliner&amp;utm_medium=branding" target="_blank" class="icon-hyundai"></a> 
+         </header> 
+         <ul class="b-teasers-2 cfix"> 
+          <li class="b-teasers-2__teaser"> <a href="https://auto.onliner.by/2020/04/26/mechtaem-v-izolyacii-o-puteshestvijah" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/a8a49a13f3d1a5d1b6e3f9a88602497e.jpeg)"> 
+            <div class="text"> <span class="text-i">Мечтаем в изоляции: каким может быть путешествие по Балканам</span> <span class="comments-number">138 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://auto.onliner.by/2020/04/26/elektromobili-sozdali-ochered-na-azs" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/641f81bf56ed8d75e3582ac1bed23843.jpeg)"> 
+            <div class="text"> <span class="text-i">Минск: электромобили создали очередь на АЗС в качестве протеста</span> <span class="comments-number">4697 комментариев за 1 день</span> 
+            </div> <i class="b-teaser-2-grad m-red"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://auto.onliner.by/2020/04/26/samodelnye-shipy-ustanovili-v-prigorode-grodno" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/231ea5c857027bbfac3d4fdcaf1aee39.jpeg)"> 
+            <div class="text"> <span class="text-i">Кто-то установил шипы в поле возле Гродно. Внедорожник пробил на них два колеса</span> <span class="comments-number">612 комментариев за 1 день</span> 
+            </div> <i class="b-teaser-2-grad m-green"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://auto.onliner.by/2020/04/25/26-aprelya-toplivo-podesheveet" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/806f73320d609cf6bb084fddf22f2186.jpeg)"> 
+            <div class="text"> <span class="text-i">26 апреля топливо подешевеет</span> <span class="comments-number">516 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://auto.onliner.by/2020/04/25/u-kolobajka-300-elektrovelosipedov" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/5d9f8d9996624ee9222540d665c41a7b.jpeg)"> 
+            <div class="text"> <span class="text-i">У «Колобайка» пополнение — 300 электровелосипедов</span> <span class="comments-number">486 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-red"></i> </a> </li> 
+         </ul> 
+         <div class="b-main-page-grid-4-i sep-lines-type-1 cfix"> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x1 news-2__secondary-news-col"> 
+           <section class="b-main-page-news-2__secondary-news"> 
+            <article> 
+             <figure> <a href="https://auto.onliner.by/2020/04/27/video-mashina-operedila-po-razdelitelnoj-polose-vozle-kurgana-slavy"> <img data-src="https://content.onliner.by/news/submain/5c0631808391b2d809f04ae64a211eba.jpeg" class="b-section-main__col-fig"> </a> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item video"> <i class="b-icon-3"></i> </span> </span> 
+              </div> 
+             </figure> 
+             <h2> <a href="https://auto.onliner.by/2020/04/27/video-mashina-operedila-po-razdelitelnoj-polose-vozle-kurgana-slavy">Видео: машина опередила по разделительной полосе возле Жукова Луга</a> </h2> 
+             <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 31 521 <i class="b-icon-3"></i> </span> <a href="https://auto.onliner.by/2020/04/27/video-mashina-operedila-po-razdelitelnoj-polose-vozle-kurgana-slavy#comments" class="complementary-item comments"> 1332 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">18 часов назад</span> 
+             </div> 
+             <p class="b-section-main__col-txt">Читатель Onliner прислал видео с опасным нарушением правил дорожного движения. Белый седан Suzuki опередил машину с видеорегистратором слева по разделительной полосе, зацепив на весьма большой скорости газон.</p> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__main-news-col"> 
+           <section class="b-main-page-news-2__main-news"> 
+            <figure> <a href="https://auto.onliner.by/2020/04/28/otrestavriroval-gaz-21-2"> <img data-src="https://content.onliner.by/news/main/249193b98b8b82d7baa15f28961d0021.jpeg" class="b-section-main__col-fig" width="572" height="276"> </a> 
+            </figure> 
+            <article class="cfix"> 
+             <div class="b-main-page-news-2__main-news-title"> 
+              <div class="tag"> <a href="https://auto.onliner.by/category/poderzhannye-avto"> Подержанные авто </a> 
+              </div> 
+              <h2> <a href="https://auto.onliner.by/2020/04/28/otrestavriroval-gaz-21-2">Воплотил мечту и отреставрировал ГАЗ-21 своими руками. Теперь продает</a> </h2> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 18 736 <i class="b-icon-3"></i> </span> <a href="https://auto.onliner.by/2020/04/28/otrestavriroval-gaz-21-2#comments" class="complementary-item comments"> 328 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">5 часов назад</span> 
+              </div> 
+             </div> 
+             <div class="b-main-page-news-2__main-news-text"> 
+              <p>Станислав всегда увлекался переделкой и реставрацией различных транспортных средств. Список проектов обширен: ГАЗ М-20 «Победа», «Москвич-412», более сотни отечественных мотоциклов. Однако заветной мечтой мужчины было восстановление ГАЗ-21. «Мне всегда нравилась эта машина, — вспоминает он. — У моего дяди была такая же. Поэтому, как только мне на глаза попался подходящий экземпляр, я принялся за работу».</p> 
+             </div> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__news-list-col"> 
+           <ul class="b-main-page-news-2__news-list"> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://auto.onliner.by/2020/04/27/gazel-i-mitsubishi-stolknulis-v-vitebskom-rajone"> <img data-src="https://content.onliner.by/news/submain/cb2b2c67e25e1c83f349d00dc30612fa.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://auto.onliner.by/2020/04/27/gazel-i-mitsubishi-stolknulis-v-vitebskom-rajone">«Газель» и Mitsubishi столкнулись в Витебском районе</a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 10 899 <i class="b-icon-3"></i> </span> <a href="https://auto.onliner.by/2020/04/27/gazel-i-mitsubishi-stolknulis-v-vitebskom-rajone#comments" class="complementary-item comments"> 98 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 день назад</span> 
+              </div> 
+              <p>Вчера примерно в 12 часов дня произошла авария на дороге М3 (Минск — Витебск) возле деревни Песчанка. Столкнулись фургон «Газель» и легковая Mitsubishi, сообщает Министерство по чрезвычайным ситуациям.</p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://auto.onliner.by/2020/04/27/postradavshaja-dtp-operacija-mozg"> <img data-src="https://content.onliner.by/news/submain/c4ef0326054255f3b7015a67c462bde1.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://auto.onliner.by/2020/04/27/postradavshaja-dtp-operacija-mozg"> <span class="helpers_hide_mobile-small">«Таким ребенком, как до&nbsp;происшествия, она уже не&nbsp;будет, но...» О&nbsp;судьбе Кати Ивановой, которую сбила машина</span> <span class="helpers_show_mobile-small">«Таким ребенком, как до&nbsp;происшествия, она уже не&nbsp;будет, но...»</span> </a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views views_popular"> 65 868 <i class="b-icon-3"></i> </span> <a href="https://auto.onliner.by/2020/04/27/postradavshaja-dtp-operacija-mozg#comments" class="complementary-item comments"> 568 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 день назад</span> 
+              </div> 
+              <p>Впервые мы рассказали об истории Кати Ивановой более четырех лет назад. Девочка, получившая тяжелые травмы в ДТП, находилась в критическом состоянии, никто из врачей прогнозов не давал, матери рекомендовали готовиться к худшему. А потом вдруг произошло чудо: ребенку стало лучше, он вышел из комы, на лице появилась улыбка. Впрочем, нет, не так. Увы, чудес не бывает... Год назад мать девочки встревоженно сообщила: «Кате хуже».</p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://auto.onliner.by/2020/04/26/na-balkone-obnaruzhili-veliki"> <img data-src="https://content.onliner.by/news/submain/aced268f2464d514d649c6f48d19575f.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://auto.onliner.by/2020/04/26/na-balkone-obnaruzhili-veliki"> <span class="helpers_hide_mobile-small">Взял сразу два — про запас. Минчанин изолировал на балконе пару шеринговых велосипедов</span> <span class="helpers_show_mobile-small">Минчанин изолировал на балконе пару шеринговых велосипедов</span> </a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views views_popular"> 82 609 <i class="b-icon-3"></i> </span> <a href="https://auto.onliner.by/2020/04/26/na-balkone-obnaruzhili-veliki#comments" class="complementary-item comments"> 439 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 день назад</span> 
+              </div> 
+              <p>Сезон кое-как начался, но, оказывается, не все знают, как правильно кататься на двухколесном транспорте. В Минске на балконе одной из квартир обнаружили два шеринговых велосипеда. То ли кто-то так попытался зарезервировать транспорт для себя, то ли изолировал на неопределенный срок велики в том месте, которое посчитал безопасным.</p> 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+         <footer class="b-main-page-blocks-footer-3 b-main-page-blocks-footer-3_specific cfix"> <a href="https://auto.onliner.by" class="footer-3-button">Все новости об автомобилях</a> 
+         </footer> 
+        </div> 
+        <div class="b-main-page-grid-6 b-main-page-ab-layer"> <!-- AB-Layer--> 
+         <div class="b-ab-layer"> <!--AB-promo-line-1--> 
+          <script>
+    window.vm = true;
+</script> 
+          <div class="b-ab-line m-1"> 
+           <div class="b-ab-line-content"> 
+            <div class="btn-group"> <a href="https://ab.onliner.by/?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=listing" class="btn-yellow __arr btn item">Автобарахолка</a> <a href="https://ab.onliner.by/create?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=create" class="btn-green btn item">Разместить объявление</a> 
+            </div> 
+            <div class="select-group item js-ab-selects"> 
+             <div class="select-group-i"> <span class="_or">или найти себе авто:</span> <span id="car-1" class="custom-select"> <select> <option data-value="">Все марки</option> <option value="Acura" data-value="acura" data-id="1">Acura</option> <option value="Alfa Romeo" data-value="alfa-romeo" data-id="3">Alfa Romeo</option> <option value="Aro" data-value="aro" data-id="168">Aro</option> <option value="Asia" data-value="asia" data-id="98">Asia</option> <option value="Aston Martin" data-value="aston-martin" data-id="94">Aston Martin</option> <option value="Audi" data-value="audi" data-id="2">Audi</option> <option value="Avia" data-value="avia" data-id="88">Avia</option> <option value="Barkas" data-value="barkas" data-id="76">Barkas</option> <option value="Bentley" data-value="bentley" data-id="4">Bentley</option> <option value="BMW" data-value="bmw" data-id="5">BMW</option> <option value="Buick" data-value="buick" data-id="7">Buick</option> <option value="Cadillac" data-value="cadillac" data-id="8">Cadillac</option> <option value="Changan" data-value="changan" data-id="153">Changan</option> <option value="Chery" data-value="chery" data-id="9">Chery</option> <option value="Chevrolet" data-value="chevrolet" data-id="10">Chevrolet</option> <option value="Chrysler" data-value="chrysler" data-id="11">Chrysler</option> <option value="Citroen" data-value="citroen" data-id="12">Citroen</option> <option value="Dacia" data-value="dacia" data-id="13">Dacia</option> <option value="Daewoo" data-value="daewoo" data-id="14">Daewoo</option> <option value="DAF" data-value="daf" data-id="91">DAF</option> <option value="Daihatsu" data-value="daihatsu" data-id="15">Daihatsu</option> <option value="Datsun" data-value="datsun" data-id="151">Datsun</option> <option value="Derways" data-value="derways" data-id="148">Derways</option> <option value="Dodge" data-value="dodge" data-id="16">Dodge</option> <option value="DongFeng" data-value="dongfeng" data-id="170">DongFeng</option> <option value="Factory Five" data-value="factory-five" data-id="183">Factory Five</option> <option value="Ferrari" data-value="ferrari" data-id="17">Ferrari</option> <option value="Fiat" data-value="fiat" data-id="18">Fiat</option> <option value="Ford" data-value="ford" data-id="19">Ford</option> <option value="FSO" data-value="fso" data-id="122">FSO</option> <option value="Geely" data-value="geely" data-id="20">Geely</option> <option value="Genesis" data-value="genesis" data-id="188">Genesis</option> <option value="GMC" data-value="gmc" data-id="21">GMC</option> <option value="Great Wall" data-value="great-wall" data-id="22">Great Wall</option> <option value="Hafei" data-value="hafei" data-id="77">Hafei</option> <option value="Haval" data-value="haval" data-id="190">Haval</option> <option value="Honda" data-value="honda" data-id="23">Honda</option> <option value="Hummer" data-value="hummer" data-id="24">Hummer</option> <option value="Hyundai" data-value="hyundai" data-id="25">Hyundai</option> <option value="Infiniti" data-value="infiniti" data-id="26">Infiniti</option> <option value="Iran Khodro" data-value="iran-khodro" data-id="27">Iran Khodro</option> <option value="Isuzu" data-value="isuzu" data-id="28">Isuzu</option> <option value="IVECO" data-value="iveco" data-id="71">IVECO</option> <option value="JAC" data-value="jac" data-id="29">JAC</option> <option value="Jaguar" data-value="jaguar" data-id="30">Jaguar</option> <option value="Jeep" data-value="jeep" data-id="31">Jeep</option> <option value="Kia" data-value="kia" data-id="32">Kia</option> <option value="LADA" data-value="lada" data-id="203">LADA</option> <option value="Lancia" data-value="lancia" data-id="33">Lancia</option> <option value="Land Rover" data-value="land-rover" data-id="34">Land Rover</option> <option value="LDV" data-value="ldv" data-id="158">LDV</option> <option value="Lexus" data-value="lexus" data-id="35">Lexus</option> <option value="Lifan" data-value="lifan" data-id="99">Lifan</option> <option value="Lincoln" data-value="lincoln" data-id="36">Lincoln</option> <option value="Maserati" data-value="maserati" data-id="37">Maserati</option> <option value="Mazda" data-value="mazda" data-id="39">Mazda</option> <option value="McLaren" data-value="mclaren" data-id="200">McLaren</option> <option value="Mercedes-Benz" data-value="mercedes-benz" data-id="41">Mercedes-Benz</option> <option value="Mercury" data-value="mercury" data-id="42">Mercury</option> <option value="MG" data-value="mg" data-id="78">MG</option> <option value="Mini" data-value="mini" data-id="43">Mini</option> <option value="Mitsubishi" data-value="mitsubishi" data-id="44">Mitsubishi</option> <option value="Mudan" data-value="mudan" data-id="118">Mudan</option> <option value="Nissan" data-value="nissan" data-id="45">Nissan</option> <option value="Opel" data-value="opel" data-id="47">Opel</option> <option value="Peugeot" data-value="peugeot" data-id="48">Peugeot</option> <option value="Pinzgauer" data-value="pinzgauer" data-id="146">Pinzgauer</option> <option value="Plymouth" data-value="plymouth" data-id="75">Plymouth</option> <option value="Pontiac" data-value="pontiac" data-id="49">Pontiac</option> <option value="Porsche" data-value="porsche" data-id="50">Porsche</option> <option value="Proton" data-value="proton" data-id="51">Proton</option> <option value="Ravon" data-value="ravon" data-id="185">Ravon</option> <option value="Renault" data-value="renault" data-id="52">Renault</option> <option value="Rover" data-value="rover" data-id="53">Rover</option> <option value="Saab" data-value="saab" data-id="54">Saab</option> <option value="Saturn" data-value="saturn" data-id="55">Saturn</option> <option value="Scion" data-value="scion" data-id="80">Scion</option> <option value="Seat" data-value="seat" data-id="56">Seat</option> <option value="Skoda" data-value="skoda" data-id="57">Skoda</option> <option value="Smart" data-value="smart" data-id="40">Smart</option> <option value="SsangYong" data-value="ssangyong" data-id="58">SsangYong</option> <option value="Subaru" data-value="subaru" data-id="59">Subaru</option> <option value="Suzuki" data-value="suzuki" data-id="60">Suzuki</option> <option value="Talbot" data-value="talbot" data-id="95">Talbot</option> <option value="Tata" data-value="tata" data-id="128">Tata</option> <option value="Tesla" data-value="tesla" data-id="112">Tesla</option> <option value="Tianma" data-value="tianma" data-id="178">Tianma</option> <option value="Toyota" data-value="toyota" data-id="61">Toyota</option> <option value="Volkswagen" data-value="volkswagen" data-id="62">Volkswagen</option> <option value="Volvo" data-value="volvo" data-id="63">Volvo</option> <option value="Vortex" data-value="vortex" data-id="167">Vortex</option> <option value="Wartburg" data-value="wartburg" data-id="81">Wartburg</option> <option value="Zotye" data-value="zotye" data-id="111">Zotye</option> <option value="ZX" data-value="zx" data-id="119">ZX</option> <option value="ВАЗ" data-value="vaz" data-id="65">ВАЗ</option> <option value="ГАЗ" data-value="gaz" data-id="66">ГАЗ</option> <option value="ЕрАЗ" data-value="eraz" data-id="137">ЕрАЗ</option> <option value="ЗАЗ" data-value="zaz" data-id="67">ЗАЗ</option> <option value="ЗиС" data-value="zis" data-id="198">ЗиС</option> <option value="ИЖ" data-value="izh" data-id="73">ИЖ</option> <option value="ЛуАЗ" data-value="luaz" data-id="74">ЛуАЗ</option> <option value="Москвич" data-value="moskvich" data-id="68">Москвич</option> <option value="РАФ" data-value="raf" data-id="92">РАФ</option> <option value="СМЗ" data-value="smz" data-id="102">СМЗ</option> <option value="УАЗ" data-value="uaz" data-id="70">УАЗ</option> </select> <span class="pseudo-select"><span class="pseudo-select-i"></span></span> </span> <span id="car-2" class="custom-select"> <select disabled> <option data-value="">Все модели</option> </select> <span class="pseudo-select"><span class="pseudo-select-i"></span></span> </span> <span id="car-3" class="custom-select"> <select> <option data-value="">Любая цена</option> <option data-value="price[to]=2000">до 2000 р.</option> <option data-value="price[to]=4000">до 4000 р.</option> <option data-value="price[to]=6000">до 6000 р.</option> <option data-value="price[to]=8000">до 8000 р.</option> <option data-value="price[to]=10000">до 10 000 р.</option> <option data-value="price[to]=14000">до 14 000 р.</option> <option data-value="price[to]=18000">до 18 000 р.</option> <option data-value="price[to]=22000">до 22 000 р.</option> <option data-value="price[to]=26000">до 26 000 р.</option> <option data-value="price[to]=30000">до 30 000 р.</option> <option data-value="price[to]=40000">до 40 000 р.</option> <option data-value="price[to]=50000">до 50 000 р.</option> <option data-value="price[to]=60000">до 60 000 р.</option> <option data-value="price[to]=70000">до 70 000 р.</option> <option data-value="price[to]=80000">до 80 000 р.</option> <option data-value="price[to]=90000">до 90 000 р.</option> <option data-value="price[to]=100000">до 100 000 р.</option> <option data-value="price[to]=120000">до 120 000 р.</option> <option data-value="price[to]=140000">до 140 000 р.</option> <option data-value="price[to]=160000">до 160 000 р.</option> <option data-value="price[to]=180000">до 180 000 р.</option> <option data-value="price[to]=200000">до 200 000 р.</option> </select> <span class="pseudo-select"><span class="pseudo-select-i"></span></span> </span> <a href="#" class="btn-green-2 btn" data-utm="utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=listing">Найти</a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> <!--/AB-promo-line-1--> <!--Tiles--> 
+          <div class="b-tiles m-inner b-ab-tiles cfix" role="grid"> 
+           <div class="b-col col-1"> 
+            <div class="b-tile m-2x2 m-red"> <a href="https://ab.onliner.by/changan/cs75/4518434?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-main"> <h3 class="b-tile-header">Changan CS75 I Рестайлинг FL T</h3> <p class="b-tile-excerpt"> 2020, новый, белый, внедорожник, бензин&nbsp;1.8&nbsp;л, автоматическая, полный привод, Минск </p> </a> 
+             <div class="b-comments-spacer"> 
+              <div class="pseudo-header">
+               Changan CS75 I Рестайлинг FL T
+              </div> 
+              <div class="pseudo-excerpt">
+                2020, новый, белый, внедорожник, бензин&nbsp;1.8&nbsp;л, автоматическая, полный привод, Минск 
+              </div> 
+             </div> <a href="https://ab.onliner.by/changan/cs75/4518434?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-ab-info"> <span class="price price-primary">61 970 р.</span> <span class="exchange">Обмен</span> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" data-style="background-image:url(https://content.onliner.by/automarket/2336707/800x800/3eac74542459c19519b628c4af93c8ab.jpeg)"></i> 
+            </div> 
+           </div> 
+           <div class="b-col col-2"> 
+            <div class="b-tile m-1x1 m-blue m-ab"> <a href="https://ab.onliner.by/kia/venga/4497870?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-main"> <h3 class="b-tile-header">Kia Venga I</h3> <p class="b-tile-excerpt">2011, 103 000 км</p> </a> <a href="https://ab.onliner.by/kia/venga/4497870?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-ab-info"> <span class="price price-primary">13 547 р.</span> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" data-style="background-image:url(https://content.onliner.by/automarket/223901/800x800/dfe87eb35dadfa59327ce4af3af3a12f.jpeg)"></i> 
+            </div> 
+            <div class="b-tile m-1x1 m-green m-ab"> <a href="https://ab.onliner.by/ravon/r4/4290088?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-main"> <h3 class="b-tile-header">Ravon R4 I Elegant</h3> <p class="b-tile-excerpt">2020, новый</p> </a> <a href="https://ab.onliner.by/ravon/r4/4290088?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-ab-info"> <span class="price price-primary">28 325 р.</span> <span class="exchange">Обмен</span> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" data-style="background-image:url(https://content.onliner.by/automarket/2336707/800x800/3e5ef3dbfa99b18032bde2ef362889fd.jpeg)"></i> 
+            </div> 
+           </div> 
+           <div class="b-col col-3"> 
+            <div class="b-tile m-1x1 m-red m-ab"> <a href="https://ab.onliner.by/chevrolet/orlando/4501625?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-main"> <h3 class="b-tile-header">Chevrolet Orlando I</h3> <p class="b-tile-excerpt">2013, 158 000 км</p> </a> <a href="https://ab.onliner.by/chevrolet/orlando/4501625?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=ad" class="b-tile-ab-info"> <span class="price price-primary">25 862 р.</span> <span class="exchange">Обмен</span> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" data-style="background-image:url(https://content.onliner.by/automarket/2218487/800x800/87fba3d6287bf16b41233323cf84b4d1.jpeg)"></i> 
+            </div> 
+            <div class="b-tile m-1x1 m-blue m-ab"> <a href="https://mb.onliner.by/moto/188052" class="b-tile-main"> <h3 class="b-tile-header">Suzuki GSX 650F</h3> <p class="b-tile-excerpt">2008, 25 000 км</p> </a> <a href="https://mb.onliner.by/moto/188052" class="b-tile-ab-info"> <span class="price price-primary">9482 р.</span> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" data-style="background-image:url(https://content.onliner.by/motofleamarket/2803786/800x800/a11ca6adbeb8b531dcab00e358794131.jpeg)"></i> 
+            </div> 
+           </div> 
+          </div> <!--/Tiles--> <!--AB-promo-line-2--> 
+          <div class="b-ab-line m-2"> 
+           <div class="b-ab-line-content">
+             Выбирайте из <a href="https://ab.onliner.by/?utm_source=onliner&amp;utm_medium=main_page&amp;utm_content=listing"> 37 177 объявлений на Автобарахолке </a> и <a href="https://mb.onliner.by"> 2989 объявлений на Мотобарахолке </a> 
+           </div> 
+          </div> <!--/AB-promo-line-2--> 
+         </div> <!-- AB-Layer--> 
+        </div> 
+        <script>
+    var doc = document.documentElement;
+    doc.setAttribute('data-useragent', navigator.userAgent);
+</script> 
+        <div class="b-main-page-grid-4 b-main-page-news-2"> 
+         <header class="b-main-page-blocks-header-2 cfix"> 
+          <h2> <a href="https://tech.onliner.by">Технологии</a> </h2> <a href="https://tech.onliner.by/feed" class="icon-rss" title="RSS"> <span>RSS</span> </a> 
+         </header> 
+         <ul class="b-teasers-2 cfix"> 
+          <li class="b-teasers-2__teaser"> <a href="https://tech.onliner.by/2020/04/26/kak-v-nebe-bliz-tokio-chut-ne-pogibli-677-chelovek" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/acffa82305d9cbefffbafe93b342c14d.jpeg)"> 
+            <div class="text"> <span class="text-i">Как в небе близ Токио чуть не погибли 677 человек</span> <span class="comments-number">112 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://tech.onliner.by/2020/04/27/vybiraem-luchshie-tarify-a1-mts-i-life" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/fe14ee6b154892a586edbac58df08c2a.jpeg)"> 
+            <div class="text"> <span class="text-i">Выбираем лучшие тарифы A1, МТС и life:)</span> <span class="comments-number">613 комментариев за 1 день</span> 
+            </div> <i class="b-teaser-2-grad m-green"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://tech.onliner.by/2020/04/26/xronika-koronavirusa-26-aprelya" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/3cf204ee7c9d97aee54ea286e92f70dd.jpeg)"> 
+            <div class="text"> <span class="text-i">Китай регистрирует новые случаи у границы с Россией. Хроника коронавируса 26 апреля</span> <span class="comments-number">337 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-red"></i> </a> </li> 
+         </ul> 
+         <div class="b-main-page-grid-4-i sep-lines-type-1 cfix"> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__main-news-col"> 
+           <section class="b-main-page-news-2__main-news"> 
+            <figure> <a href="https://tech.onliner.by/2020/04/28/kak-evropa-vyxodit-iz-karantina"> <img data-src="https://content.onliner.by/news/main/661acf0305df96a557636b79706d1e54.jpeg" class="b-section-main__col-fig" width="572" height="276"> </a> 
+            </figure> 
+            <article class="cfix"> 
+             <div class="b-main-page-news-2__main-news-title"> 
+              <div class="tag"> <a href="https://tech.onliner.by/category/science"> Наука </a> 
+              </div> 
+              <h2> <a href="https://tech.onliner.by/2020/04/28/kak-evropa-vyxodit-iz-karantina">Жизнь возвращается в Европу. Как страны будут выходить из карантина?</a> </h2> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 14 830 <i class="b-icon-3"></i> </span> <a href="https://tech.onliner.by/2020/04/28/kak-evropa-vyxodit-iz-karantina#comments" class="complementary-item comments"> 308 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">5 часов назад</span> 
+              </div> 
+             </div> 
+             <div class="b-main-page-news-2__main-news-text"> 
+              <p>Европа начинает оживать после долгого карантина, который парализовал промышленность, туризм, социальную жизнь региона. Распространение коронавируса в большинстве европейских стран заметно замедлилось, появился шанс вернуться к прежней жизни. Но возвращение это не будет одномоментным. Многие страны озвучили план постепенного снятия карантинных мер.</p> 
+             </div> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x1 news-2__secondary-news-col"> 
+           <section class="b-main-page-news-2__secondary-news"> 
+            <article> 
+             <figure> <a href="https://tech.onliner.by/2020/04/28/korabl-spacex-starship-nakonec-to-proshel-klyuchevoj-test"> <img data-src="https://content.onliner.by/news/submain/8ede66ca6f5ad70594c48266a687ff3a.jpeg" class="b-section-main__col-fig"> </a> 
+             </figure> 
+             <h2> <a href="https://tech.onliner.by/2020/04/28/korabl-spacex-starship-nakonec-to-proshel-klyuchevoj-test">Корабль SpaceX Starship наконец-то прошел ключевой тест</a> </h2> 
+             <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 2243 <i class="b-icon-3"></i> </span> <a href="https://tech.onliner.by/2020/04/28/korabl-spacex-starship-nakonec-to-proshel-klyuchevoj-test#comments" class="complementary-item comments"> 88 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">2 часа назад</span> 
+             </div> 
+             <p class="b-section-main__col-txt">SpaceX успешно испытала корабль Starship, который планируется использовать для доставки человека и грузов на Луну, а затем и на Марс. Корабль проверяли на воздействие давления при низких температурах, тем самым симулируя условия при заправке реальным ракетным топливом для старта.</p> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__news-list-col"> 
+           <ul class="b-main-page-news-2__news-list"> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://tech.onliner.by/2020/04/28/evropa-ottaivaet-xronika-koronavirusa-28-aprelya"> <img data-src="https://content.onliner.by/news/submain/18291c82852c7ecaeaabbf79147a7422.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://tech.onliner.by/2020/04/28/evropa-ottaivaet-xronika-koronavirusa-28-aprelya">Экономике сильно нездоровится. Хроника коронавируса 28 апреля</a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 9988 <i class="b-icon-3"></i> </span> <a href="https://tech.onliner.by/2020/04/28/evropa-ottaivaet-xronika-koronavirusa-28-aprelya#comments" class="complementary-item comments"> 185 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">3 часа назад</span> 
+              </div> 
+              <p>Европейские страны возвращаются к нормальной жизни, что однозначно радует: постепенно открываются учебные заведения, магазины, люди потихоньку возвращаются к обычным делам. А вот в США ситуация остается непростой: страна перешагнула отметку в миллион выявленных случаев и лидирует с большим отрывом что по этому показателю, что по числу умерших — почти 57 тысяч жертв. Мы вновь ведем хронику главных событий о коронавирусе.</p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://tech.onliner.by/2020/04/27/pioner-kremnievoj-doliny-rasskazhet-na-emerge-o-vliyanii-pandemii-na-it-otrasl"> <img data-src="https://content.onliner.by/news/submain/63b48c2575a64e0de11a1f466afc625d.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://tech.onliner.by/2020/04/27/pioner-kremnievoj-doliny-rasskazhet-na-emerge-o-vliyanii-pandemii-na-it-otrasl">Пионер Кремниевой долины расскажет на EMERGE о влиянии пандемии на IT-отрасль </a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 5981 <i class="b-icon-3"></i> </span> <a href="https://tech.onliner.by/2020/04/27/pioner-kremnievoj-doliny-rasskazhet-na-emerge-o-vliyanii-pandemii-na-it-otrasl#comments" class="complementary-item comments"> 42 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 день назад</span> 
+              </div> 
+              <p>На конференции EMERGE выступит Тим Дрейпер. Это один из пионеров венчурной отрасли Кремниевой долины и потомственный венчурный капиталист. Он основал несколько фондов и инвестировал в Twitch, Tesla, SpaceX и другие корпорации. Бизнесмен расскажет на конференции о будущем индустрии: что ждет инвесторов и как IT-сфера изменится под влиянием пандемии коронавируса.</p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://tech.onliner.by/2020/04/27/covid-6"> <img data-src="https://content.onliner.by/news/submain/e7a489c8fb36996f183be6adc1a333ce.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://tech.onliner.by/2020/04/27/covid-6">В мире 3 миллиона случаев COVID-19. Хроника коронавируса 27 апреля</a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views views_popular"> 46 172 <i class="b-icon-3"></i> </span> <a href="https://tech.onliner.by/2020/04/27/covid-6#comments" class="complementary-item comments"> 291 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 день назад</span> 
+              </div> 
+              <p>Мир перешагнул отметку в три миллиона выявленных случаев заражения коронавирусом. По данным счетчика Worldometers, на середину понедельника насчитывается 3 миллиона и 15 тысяч выявлений COVID-19. США с большим отрывом находится на первом месте по случаям заражения — более 987 тысяч. Мы продолжаем следить за главными событиями по коронавирусу на планете.</p> 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+         <footer class="b-main-page-blocks-footer-3 b-main-page-blocks-footer-3_specific cfix"> <a href="https://tech.onliner.by" class="footer-3-button">Все новости о технологиях</a> 
+         </footer> 
+        </div> 
+        <div class="b-main-page-grid-6 b-main-page-advert-layer"> 
+         <header class="b-main-page-blocks-header-2 cfix"> 
+          <h2> <a href="https://catalog.onliner.by/mobile/huawei?utm_source=onliner_main&amp;utm_medium=sloi_video&amp;utm_campaign=short_logo" class="icon-huawei"></a> МОДА И СТИЛЬ </h2> 
+         </header> 
+         <div class="b-advert-layer"> 
+          <div class="b-tiles cfix " role="grid"> 
+           <div class="b-col col-1"> 
+            <div class="col-sub"> 
+             <div class="b-tile m-1x2 m-uw m-red"> 
+              <div id="widget-19"> 
+               <div class="widget-19" style="display:none;"> <a href="https://people.onliner.by/2020/04/24/razbor-garderoba" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Cемь шагов</h3> <p class="b-tile-excerpt max-lines-2">для самостоятельного разбора гардероба</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x2/b9778663a955712e7f58610496ce89b6.png)"></i> 
+               </div> 
+              </div> 
+             </div> 
+             <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-19'));
+    });
+</script> 
+            </div> 
+            <div class="b-tile m-1x1 m-uw m-blue"> 
+             <div id="widget-29"> 
+              <div class="widget-29" style="display:none;"> <a href="https://people.onliner.by/2020/03/06/top-10-dizajnerov" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Топ-10</h3> <p class="b-tile-excerpt max-lines-2">белорусских женщин — дизайнеров одежды</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/4b6a98c9254d3742da7b1789aba01ef1.jpeg)"></i> 
+              </div> 
+             </div> 
+            </div> 
+            <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-29'));
+    });
+</script> 
+            <div class="b-tile m-1x1 m-uw m-green"> 
+             <div id="widget-39"> 
+              <div class="widget-39" style="display:none;"> <a href="https://people.onliner.by/2010/02/25/trendy-2020" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Изучаем главные тренды</h3> <p class="b-tile-excerpt max-lines-2">в моде 2020 года</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/0d59b707754a6bd5533d4d1d4644db6e.jpeg)"></i> 
+              </div> 
+             </div> 
+            </div> 
+            <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-39'));
+    });
+</script> 
+           </div> 
+           <div class="b-col col-2"> 
+            <div class="b-tile m-1x1 m-uw m-red"> 
+             <div id="widget-49"> 
+              <div class="widget-49" style="display:none;"> <a href="https://people.onliner.by/2020/04/03/cvet-sezona" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Как носить хит сезона —</h3> <p class="b-tile-excerpt max-lines-2">синий и все его оттенки?</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/ec727b7e8b5b5dc5dc807f9be3d14363.jpeg)"></i> 
+              </div> 
+              <div class="widget-49" style="display:none;"> <a href="https://people.onliner.by/2020/04/03/cvet-sezona" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Как носить хит сезона —</h3> <p class="b-tile-excerpt max-lines-2">синий и все его оттенки?</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/327df4f097ccabca49740385ae81e49d.jpeg)"></i> 
+              </div> 
+             </div> 
+            </div> 
+            <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-49'));
+    });
+</script> 
+            <div class="b-tile m-1x1 m-uw m-blue"> 
+             <div id="widget-59"> 
+              <div class="widget-59" style="display:none;"> <a href="https://people.onliner.by/2020/03/20/rabotayut-doma" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">В чем работают дома</h3> <p class="b-tile-excerpt max-lines-2">минские модницы</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/87c72c91de7d42d5ed198a4f49261742.png)"></i> 
+              </div> 
+             </div> 
+            </div> 
+            <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-59'));
+    });
+</script> 
+           </div> 
+           <div class="b-col col-3"> 
+            <div class="b-tile m-1x1 m-uw m-green"> 
+             <div id="widget-69"> 
+              <div class="widget-69" style="display:none;"> <a href="https://people.onliner.by/2020/03/13/trendy-u-bel-dizajnerov" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Ищем мировые тренды</h3> <p class="b-tile-excerpt max-lines-2">у белорусских дизайнеров</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/76abced6135db12d1ea1d1be1465d1df.jpeg)"></i> 
+              </div> 
+              <div class="widget-69" style="display:none;"> <a href="https://people.onliner.by/2020/04/13/modnyj-pokaz-onlajn" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">В Минске впервые прошел</h3> <p class="b-tile-excerpt max-lines-2">модный показ в формате онлайн</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/20da95832ffa88296dcaafa61b5ba1ba.jpeg)"></i> 
+              </div> 
+             </div> 
+            </div> 
+            <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-69'));
+    });
+</script> 
+            <div class="b-tile m-1x1 m-uw m-red"> 
+             <div id="widget-79"> 
+              <div class="widget-79" style="display:none;"> <a href="https://people.onliner.by/2020/03/27/kapsulnyj-garderob" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Как собрать нескучный</h3> <p class="b-tile-excerpt max-lines-2">капсульный гардероб на весну</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/46cb735e0aea1161adf77e09d68f6727.jpeg)"></i> 
+              </div> 
+              <div class="widget-79" style="display:none;"> <a href="https://people.onliner.by/2020/04/17/priroda-vdoxnovlyaet" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Как природа</h3> <p class="b-tile-excerpt max-lines-2">вдохновляет дизайнеров</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x1/3a673c15e123763402a7962721b17146.jpeg)"></i> 
+              </div> 
+             </div> 
+            </div> 
+            <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-79'));
+    });
+</script> 
+           </div> 
+          </div> 
+          <div class="b-ab-line m-2"> 
+           <div class="b-ab-line-content"> <a href="https://catalog.onliner.by/mobile?mfr%5B0%5D=huawei"> Все предложения Huawei в Каталоге Onliner </a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="b-main-page-grid-4 b-main-page-news-2"> 
+         <header class="b-main-page-blocks-header-2 cfix"> 
+          <h2> <a href="https://realt.onliner.by">Недвижимость</a> </h2> <a href="https://realt.onliner.by/feed" class="icon-rss" title="RSS"> <span>RSS</span> </a> 
+         </header> 
+         <ul class="b-teasers-2 cfix"> 
+          <li class="b-teasers-2__teaser"> <a href="https://realt.onliner.by/2020/04/26/beloruska-brossila-raboty-v-minske-pereexala-v-derevnyu" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/f9b7a16825c7b256645a9d627de7914a.jpeg)"> 
+            <div class="text"> <span class="text-i">Белоруска бросила работу в Минске и переехала в деревню</span> <span class="comments-number">1298 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-red"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://realt.onliner.by/2020/04/26/v-obshhezhitii-17-bntu-budut-soderzhat-zarazhennyx-koronavirusom" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/b249bb96bd146ee9002b8d7635f6564c.jpeg)"> 
+            <div class="text"> <span class="text-i">В Минске из общежития БНТУ выселяют студентов — их место займут зараженные коронавирусом</span> <span class="comments-number">1203 комментария за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://realt.onliner.by/2020/04/26/postradavshie-regiony" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/a0c9c13138ccd19b32d6d49da70a3add.jpeg)"> 
+            <div class="text"> <span class="text-i">Лукашенко заявил, что пришло время заняться развитием 30-километровой зоны отчуждения вокруг ЧАЭС</span> <span class="comments-number">509 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-green"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://realt.onliner.by/2020/04/26/batalon-rxb-rabotal-v-bolnice-v-borovlyanax" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/e67bdf615963f00ad299f5c6ddd02623.jpeg)"> 
+            <div class="text"> <span class="text-i">Батальон радиационной, химической и биологической защиты работал в больнице в Боровлянах</span> <span class="comments-number">213 комментариев за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-red"></i> </a> </li> 
+          <li class="b-teasers-2__teaser"> <a href="https://realt.onliner.by/2020/04/25/okrestnosti-bresta-posle-pozhara" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/news/medium/f9a9dd2ec2321fa68e136b182f09eee7.jpeg)"> 
+            <div class="text"> <span class="text-i">Как выглядят окрестности Бреста после пожара</span> <span class="comments-number">91 комментарий за 2 дня</span> 
+            </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+         </ul> 
+         <div class="b-main-page-grid-4-i sep-lines-type-1 cfix"> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x1 news-2__secondary-news-col"> 
+           <section class="b-main-page-news-2__secondary-news"> 
+            <article> 
+             <figure> <a href="https://realt.onliner.by/2020/04/27/svodnyj-batalon-ximzashhity-provel-dezinfekciyu-polikliniki-1-v-minske"> <img data-src="https://content.onliner.by/news/submain/ed9aa98a0d660536931f9c2d34e6fb56.jpeg" class="b-section-main__col-fig"> </a> 
+             </figure> 
+             <h2> <a href="https://realt.onliner.by/2020/04/27/svodnyj-batalon-ximzashhity-provel-dezinfekciyu-polikliniki-1-v-minske">Военных отправили на дезинфекцию минской поликлиники</a> </h2> 
+             <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 22 611 <i class="b-icon-3"></i> </span> <a href="https://realt.onliner.by/2020/04/27/svodnyj-batalon-ximzashhity-provel-dezinfekciyu-polikliniki-1-v-minske#comments" class="complementary-item comments"> 316 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">16 часов назад</span> 
+             </div> 
+             <p class="b-section-main__col-txt">Сводный батальон радиационной, химической и биологической защиты 8-й бригады РХБ защиты обработал помещения и территорию минской поликлиники №1. Фотограф и оператор Onliner выехали на место и понаблюдали за работой специалистов сводного батальона.</p> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__main-news-col"> 
+           <section class="b-main-page-news-2__main-news"> 
+            <figure> <a href="https://realt.onliner.by/2020/04/28/obshhezhitiye"> <img data-src="https://content.onliner.by/news/main/6a76b469485b61416cd4619adbc94ba2.jpeg" class="b-section-main__col-fig" width="572" height="276"> </a> 
+            </figure> 
+            <article class="cfix"> 
+             <div class="b-main-page-news-2__main-news-title"> 
+              <div class="tag"> <a href="https://realt.onliner.by/category/problems"> Проблемы </a> 
+              </div> 
+              <h2> <a href="https://realt.onliner.by/2020/04/28/obshhezhitiye">Что теперь происходит в 17-м общежитии БНТУ, откуда выселили студентов</a> </h2> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 19 219 <i class="b-icon-3"></i> </span> <a href="https://realt.onliner.by/2020/04/28/obshhezhitiye#comments" class="complementary-item comments"> 109 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">5 часов назад</span> 
+              </div> 
+             </div> 
+             <div class="b-main-page-news-2__main-news-text"> 
+              <p>26 апреля жильцов 17-го общежития БНТУ обязали покинуть свои комнаты в течение дня, чтобы их места заняли студенты 6-го общежития с подтвержденным COVID-19. Это решение было принято ректоратом днем ранее. На новое место, по словам студентов, уже свезли 90 больных. Узнали, как обживаются на новом месте заразившиеся и куда оставалось ехать ребятам, которых выселили.</p> 
+             </div> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__news-list-col"> 
+           <ul class="b-main-page-news-2__news-list"> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://realt.onliner.by/2020/04/27/shashlychok-v-period-pandemii-reportazh-s-populyarnyx-piknikovyx-mest-minska"> <img data-src="https://content.onliner.by/news/submain/ac0db68a995e28af4e8c89045cb47bdb.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://realt.onliner.by/2020/04/27/shashlychok-v-period-pandemii-reportazh-s-populyarnyx-piknikovyx-mest-minska">Шашлычок в период пандемии. Репортаж с популярных пикниковых мест Минска</a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views views_popular"> 107 792 <i class="b-icon-3"></i> </span> <a href="https://realt.onliner.by/2020/04/27/shashlychok-v-period-pandemii-reportazh-s-populyarnyx-piknikovyx-mest-minska#comments" class="complementary-item comments"> 1790 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">21 час назад</span> 
+              </div> 
+              <p>«Поехали на шашлыки» — частое приглашение в теплое время года. Действительно, мало кто представляет отдых на природе без свежеприготовленного мяса. Популярные места отдыха в Минске многолюдны, это можно оценить даже по стоянкам, которые заполнены автомобилями. Узнали, как люди проводят самоизоляцию, не боятся ли гулять и как относятся к вирусу.</p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://realt.onliner.by/2020/04/27/tancevalnaya-chuma-anglijskij-pot-sonnaya"> <img data-src="https://content.onliner.by/news/submain/95b931e05c7161c0962e0d1d79ced535.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://realt.onliner.by/2020/04/27/tancevalnaya-chuma-anglijskij-pot-sonnaya"> <span class="helpers_hide_mobile-small">Танцевальная чума, английский пот, сонная болезнь: топ самых необычных эпидемий в истории человечества</span> <span class="helpers_show_mobile-small">Топ самых необычных эпидемий в истории человечества</span> </a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 37 503 <i class="b-icon-3"></i> </span> <a href="https://realt.onliner.by/2020/04/27/tancevalnaya-chuma-anglijskij-pot-sonnaya#comments" class="complementary-item comments"> 116 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 день назад</span> 
+              </div> 
+              <p>Эпидемии различных заболеваний сопровождали человеческую популяцию на протяжении всей истории ее развития, порой убивая до половины всего населения того или иного континента. Какие-то трагедии такого рода хорошо известны и тщательно изучены специалистами. Многие прежде особо опасные заболевания (например, оспа или чума) полностью или практически полностью нейтрализованы, другие продолжают представлять угрозу. Но есть и отдельная категория эпидемий, природа которых так и не была установлена.</p> 
+             </div> </li> 
+            <li class="cfix"> 
+             <figure class="b-main-page-news-2__news-list-image"> <a href="https://realt.onliner.by/2020/04/26/vyselyayut-studentov-obshhezhitiya-bntu"> <img data-src="https://content.onliner.by/news/submain/eaceb8c74f1fe11c015766cbbe96254e.jpeg"> </a> 
+             </figure> 
+             <div class="b-main-page-news-2__news-list-text"> 
+              <h3> <a href="https://realt.onliner.by/2020/04/26/vyselyayut-studentov-obshhezhitiya-bntu">Минздрав пояснил, почему студентов с коронавирусом переселяют в 17-е общежитие БНТУ</a> </h3> 
+              <div class="complementary cfix"> <span class="complementary-group"> <span class="complementary-item views"> 32 191 <i class="b-icon-3"></i> </span> <a href="https://realt.onliner.by/2020/04/26/vyselyayut-studentov-obshhezhitiya-bntu#comments" class="complementary-item comments"> 230 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time">1 день назад</span> 
+              </div> 
+              <p>Сегодня стало известно, что из общежития №17 происходит массовое выселение проживающих там студентов: их отправили по домам. На их месте будут жить зараженные коронавирусом студенты, которым положено находиться на самоизоляции. Проректор Георгий Вершина не смог пояснить такое решение. Это сделал Минздрав.</p> 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+         <footer class="b-main-page-blocks-footer-3 b-main-page-blocks-footer-3_specific cfix"> <a href="https://realt.onliner.by" class="footer-3-button">Все новости о недвижимости</a> 
+         </footer> 
+        </div> 
+        <div class="b-main-page-grid-4 b-main-page-news-2"> 
+         <header class="b-main-page-blocks-header-2 cfix"> 
+          <h2><a href="https://forum.onliner.by/">Форум</a></h2> 
+         </header> 
+         <div class="b-main-forum-block-2"> 
+          <ul class="b-teasers-2 cfix"> 
+           <li class="b-teasers-2__teaser"> <a href="https://forum.onliner.by/viewtopic.php?t=757557" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/mainpage/forum/teaserbanner/64863fa8301f225159952935f4c0c0c0.jpeg)"> 
+             <div class="text"> <span class="text-i">Как дела у техосмотра?</span> <span class="comments-number">14 484 сообщения</span> 
+             </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+           <li class="b-teasers-2__teaser"> <a href="https://forum.onliner.by/viewtopic.php?t=4602416" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/mainpage/forum/teaserbanner/6b8e60104b104b79f79b2ba8368ce398.png)"> 
+             <div class="text"> <span class="text-i">Этот дом стал слишком умным</span> <span class="comments-number">1820 сообщений</span> 
+             </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+           <li class="b-teasers-2__teaser"> <a href="https://forum.onliner.by/viewtopic.php?t=2426335" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/mainpage/forum/teaserbanner/1c99954057fd8d68006fee6844816ff8.jpeg)"> 
+             <div class="text"> <span class="text-i">Не бит, не крашен, для РБ</span> <span class="comments-number">61 791 сообщение</span> 
+             </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+           <li class="b-teasers-2__teaser"> <a href="https://forum.onliner.by/viewtopic.php?t=18849" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/mainpage/forum/teaserbanner/4ebd5b9f73af99469acb02940b6db2dd.jpeg)"> 
+             <div class="text"> <span class="text-i">Шины сами себя не поменяют</span> <span class="comments-number">6578 сообщений</span> 
+             </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+           <li class="b-teasers-2__teaser"> <a href="https://forum.onliner.by/viewtopic.php?t=743350" class="b-teasers-2__teaser-i" data-style="background-image:url(https://content.onliner.by/mainpage/forum/teaserbanner/5baacc4138040f4e60cf9875849e3b6f.jpeg)"> 
+             <div class="text"> <span class="text-i">Порадуй маму битухой</span> <span class="comments-number">82 778 сообщений</span> 
+             </div> <i class="b-teaser-2-grad m-blue"></i> </a> </li> 
+          </ul> 
+         </div> 
+         <div class="b-main-page-grid-4-i cfix"> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x1 news-2__forum-news-list-col"> 
+           <section class="b-main-page-news-2__forum-news-list"> 
+            <header>
+             Самые обсуждаемые темы
+            </header> 
+            <ol> 
+             <li> <a href="https://forum.onliner.by/viewtopic.php?t=23648832">Коронавирус в Беларуси</a> <small> 24,6K </small> </li> 
+             <li> <a href="https://forum.onliner.by/viewtopic.php?t=19118855">Жилая недвижимость. Общие тенденции (9)</a> <small> 162,9K </small> </li> 
+             <li> <a href="https://forum.onliner.by/viewtopic.php?t=5981891">Помогите с выбором велосипеда</a> <small> 78,3K </small> </li> 
+             <li> <a href="https://forum.onliner.by/viewtopic.php?t=1063769">Религия. Ваше отношение. (4)</a> <small> 462,6K </small> </li> 
+             <li> <a href="https://forum.onliner.by/viewtopic.php?t=37409">Сколько стоит построить ДОМ?</a> <small> 266,3K </small> </li> 
+             <li> <a href="https://forum.onliner.by/viewtopic.php?t=16624179">Клуб любителей игры World of Tanks</a> <small> 304,3K </small> </li> 
+             <li> <a href="https://forum.onliner.by/viewtopic.php?t=16963939">Обсуждение курсов валют. Часть 5.</a> <small> 49,2K </small> </li> 
+            </ol> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x2 news-2__main-news-col"> 
+           <section class="b-main-page-news-2__main-news"> 
+            <figure> <a href="https://forum.onliner.by/viewtopic.php?p=107264133#p107264133"> <img data-src="https://content.onliner.by/mainpage/forum/default/d552b8594dfa4e3ebb2f1ce35e651e64.jpeg" alt="Мнение: призывники создают допнагрузку на здравоохранение" class="b-section-main__col-fig"> </a> 
+            </figure> 
+            <article class="cfix"> 
+             <div class="b-main-page-news-2__main-news-title"> 
+              <div class="tag"> <a href="https://forum.onliner.by/viewforum.php?f=55"> Право и законодательство. Общие вопросы </a> 
+              </div> 
+              <h2> <a href="https://forum.onliner.by/viewtopic.php?p=107264133#p107264133">Мнение: призывники создают допнагрузку на здравоохранение</a> </h2> <!--Complementary--> 
+              <div class="complementary cfix"> <span class="complementary-group"> <a href="https://forum.onliner.by/viewtopic.php?p=107264133#p107264133" class="complementary-item comments"> 73,6K <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time"> 5 минут назад <i class="b-icon-3"></i> </span> 
+              </div> <!--/Complementary--> 
+             </div> 
+             <div class="b-main-page-news-2__main-news-text"> 
+              <p>«В условиях пандемии обязывать призывников ходить по медкомиссиям и военкоматам — это фактически ставить под угрозу здоровье не только призывников и их близких, но и работников самих РВК. Кроме того, призывники создают дополнительную нагрузку на перегруженную систему здравоохранения», — считает форумчанин.</p> 
+             </div> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x1 news-2__secondary-news-col"> 
+           <section class="b-main-page-news-2__secondary-news"> 
+            <article> 
+             <figure> <a href="https://forum.onliner.by/viewtopic.php?p=107235305#p107235305"> <img data-src="https://content.onliner.by/mainpage/forum/thumbnail/3d6a716c36b7a0bbf1da19d07e4a2fa8.jpeg" alt="А что вас бесит?" class="b-section-main__col-fig"> </a> 
+             </figure> 
+             <h2> <a href="https://forum.onliner.by/viewtopic.php?p=107235305#p107235305">А что вас бесит?</a> </h2> <!--Complementary--> 
+             <div class="complementary cfix"> <span class="complementary-group"> <a href="https://forum.onliner.by/viewtopic.php?p=107235305#p107235305" class="complementary-item comments"> 5,6K <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time"> 4 минуты назад <i class="b-icon-3"></i> </span> 
+             </div> <!--/Complementary--> 
+             <p>На форуме Onliner новая тема. Здесь можно выпустить пар, после чего жить станет легче (или не станет). Люди делятся словами, выражениями, явлениями и вообще всем, что их по той или иной причине раздражает. Пока в топе — приветственное выражение «Доброго времени суток!».</p> 
+            </article> 
+           </section> 
+          </div> 
+          <div class="b-main-page-grid-4__col b-main-page-grid-4__col-1x1 news-2__secondary-news-col"> 
+           <section class="b-main-page-news-2__secondary-news"> 
+            <article> 
+             <figure> <a href="https://forum.onliner.by/viewtopic.php?t=1425824&amp;view=unread#unread"> <img data-src="https://content.onliner.by/mainpage/forum/thumbnail/449ac8ac824a9b96c36d12d293d12e3a.jpeg" alt="Благотворительность. Ветка для тех, кому нужна помощь" class="b-section-main__col-fig"> </a> 
+             </figure> 
+             <h2> <a href="https://forum.onliner.by/viewtopic.php?t=1425824&amp;view=unread#unread">Благотворительность. Ветка для тех, кому нужна помощь</a> </h2> <!--Complementary--> 
+             <div class="complementary cfix"> <span class="complementary-group"> <a href="https://forum.onliner.by/viewtopic.php?t=1425824&amp;view=unread#unread" class="complementary-item comments"> 903 <i class="b-icon-3"></i> </a> </span> <span class="complementary-item time"> 1 день назад <i class="b-icon-3"></i> </span> 
+             </div> <!--/Complementary--> 
+             <p>Периодически к нам обращаются представители разных благотворительных организаций и просят донести свои просьбы до общественности форума. Мы создали отдельную ветку, где публикуются призывы такого рода. Если вам нужна помощь, а также если вы сами готовы помочь другим, загляните на эту страничку.</p> 
+            </article> 
+           </section> 
+          </div> 
+         </div> 
+         <footer class="b-main-page-blocks-footer-3 cfix"> <a href="https://forum.onliner.by/" class="footer-3-links all-news-link">Все разделы форума</a> <a href="https://forum.onliner.by/search.php?type=lastposts&amp;time=86400" class="footer-3-links">Новое за 24 часа</a> 
+         </footer> 
+        </div> 
+        <div class="b-ba-layer"> <!--BA-promo-line-1--> 
+         <div class="b-ab-line b-ba-line "> 
+          <div class="b-ab-line-content"> 
+           <div class="btn-group"> <a href="http://baraholka.onliner.by" class="btn-yellow __arr btn item">Барахолка</a> <a href="http://baraholka.onliner.by/fleamarketposting.php" class="btn-green btn item">Разместить объявление</a> 
+           </div> 
+           <div class="txt">
+            <p>150 000 уникальных пользователей и&nbsp;около 5000 новых объявлений ежедневно!</p>
+           </div> 
+          </div> 
+         </div> <!--/BA-promo-line-1--> <!--Tiles--> 
+         <div class="b-tiles m-inner b-ba-tiles cfix" role="grid"> 
+          <div class="b-tile m-1x2 m-uw m-red"> 
+           <div id="widget-17"> 
+            <div class="widget-17" style="display:none;"> <a href="https://baraholka.onliner.by/viewforum.php?f=195" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Строительные и отделочные материалы</h3> <p class="b-tile-excerpt max-lines-2">Блоки, цемент, песок, арматура и многое другое</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x2/f5b5ecb233e562372a3dc606fcb9934a.jpeg)"></i> 
+            </div> 
+           </div> 
+          </div> 
+          <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-17'));
+    });
+</script> 
+          <div class="b-tile m-1x2 m-uw m-green"> 
+           <div id="widget-27"> 
+            <div class="widget-27" style="display:none;"> <a href="https://baraholka.onliner.by/viewforum.php?f=191" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Игры для приставок</h3> <p class="b-tile-excerpt max-lines-2">Спрячься в виртуальном мире от реального</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x2/a3e4ba4feeb5e995aeca614c684c1a62.jpeg)"></i> 
+            </div> 
+            <div class="widget-27" style="display:none;"> <a href="https://baraholka.onliner.by/viewforum.php?f=606" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Игровые приставки</h3> <p class="b-tile-excerpt max-lines-2">Карантин пролетит незаметно!</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x2/93a36aacf397b263a7e8285a96f8833b.jpeg)"></i> 
+            </div> 
+           </div> 
+          </div> 
+          <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-27'));
+    });
+</script> 
+          <div class="b-tile m-1x2 m-uw m-blue"> 
+           <div id="widget-37"> 
+            <div class="widget-37" style="display:none;"> <a href="https://baraholka.onliner.by/viewforum.php?f=591" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Всё для ремонта и строительства</h3> <p class="b-tile-excerpt max-lines-2">Египет отменяется, можно заняться ремонтом</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x2/6fc16a7cfc7b1d48a2a62d222fb67aca.jpeg)"></i> 
+            </div> 
+           </div> 
+          </div> 
+          <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-37'));
+    });
+</script> 
+          <div class="b-tile m-1x2 m-uw m-red"> 
+           <div id="widget-47"> 
+            <div class="widget-47" style="display:none;"> <a href="https://baraholka.onliner.by/viewforum.php?f=203" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Фильмы. Музыка. Книги</h3> <p class="b-tile-excerpt max-lines-2">Для коллекционеров и ценителей</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x2/9e6379ec3dccf5fa3cf23dab134636e5.jpeg)"></i> 
+            </div> 
+            <div class="widget-47" style="display:none;"> <a href="https://baraholka.onliner.by/viewforum.php?f=242" class="b-tile-main"> <h3 class="b-tile-header max-lines-2">Настольные игры и сборные модели</h3> <p class="b-tile-excerpt max-lines-2">В офлайне тоже весело!</p> </a> <i class="b-tile-grad"></i> <i class="b-tile-bg" style="background-image:url(https://content.onliner.by/widget/tiles/1x2/1cc81a62fc28c88df1331672ec1b9c62.jpeg)"></i> 
+            </div> 
+           </div> 
+          </div> 
+          <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        Onliner.Tiles.truncate(Onliner.Tiles.randomize('widget-47'));
+    });
+</script> 
+         </div> <!--/Tiles--> <!--AB-promo-line-2--> 
+         <div class="b-ab-line m-2"> 
+          <div class="b-ab-line-content"> <a href="http://baraholka.onliner.by">Все разделы Барахолки</a> или <a href="http://baraholka.onliner.by/search.php?type=lastposts&amp;time=86400">2306 новых объявлений за 24 часа</a> 
+          </div> 
+         </div> <!--/AB-promo-line-2--> 
+        </div> <!-- BA-Layer--> 
+        <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var $container = $('.b-ba-tiles'),
+            $widgetsRandom = $container.find('.m-ba-layer-widget'),
+            adverts = [];
+
+        if ($widgetsRandom.length) {
+            $widgetsRandom.eq(0).find('.advert').each(function (iter, item) {
+                adverts.push($(item).data('advert-id'));
+            });
+
+            while ($widgetsRandom.length > adverts.length) {
+                adverts.push(adverts[adverts.length - 1]);
+            }
+
+            $widgetsRandom.each(function (iter, item) {
+                var indexRandom = Math.floor(Math.random() * adverts.length),
+                    advertRandom = adverts[indexRandom],
+                    $advert = $(item).find('.advert-' + advertRandom);
+
+                $advert.show();
+
+                Onliner.Tiles.truncate($advert);
+
+                adverts.splice(indexRandom, 1);
+            });
+        }
+    });
+</script> 
+        <script>
+    window.ONTHE_DATA = {"page_url":"https://www.onliner.by","page_url_canonical":"https://www.onliner.by","page_title":"Onliner","page_type":"main","page_language":"ru"};
+</script> 
+       </div> 
+      </div> <!--/Middle--> 
+     </div><!-- /.l-gradient-wrapper --> 
+    </div> 
+   </div> <!--/Container--> <!--Bottom--> 
+   <footer class="g-bottom"> 
+    <div class="g-bottom-i"> 
+     <div class="footer-style"> 
+      <div class="footer-style__flex"> 
+       <div class="footer-style__part footer-style__part_1"> 
+        <ul class="footer-style__list"> 
+         <li class="footer-style__item"> <a href="https://blog.onliner.by/about" class="footer-style__link footer-style__link_primary"> О компании </a> </li> 
+         <li class="footer-style__item"> <a href="https://people.onliner.by/contacts" class="footer-style__link footer-style__link_primary"> Контакты редакции </a> </li> 
+         <li class="footer-style__item"> <a href="https://b2breg.onliner.by/advertising" class="footer-style__link footer-style__link_additional"> Реклама </a> </li> 
+         <li class="footer-style__item"> <a href="https://b2b.onliner.by/reg" class="footer-style__link footer-style__link_additional"> Размещение в каталоге </a> </li> 
+         <li class="footer-style__item"> <a href="https://blog.onliner.by/vacancy" class="footer-style__link footer-style__link_primary"> Вакансии </a> </li> 
+         <li class="footer-style__item"> <a href="https://blog.onliner.by/manifest" class="footer-style__link footer-style__link_primary"> Манифест </a> </li> 
+         <li class="footer-style__item"> <a href="https://blog.onliner.by/siterules" class="footer-style__link footer-style__link_primary"> Пользовательское соглашение </a> </li> 
+         <li class="footer-style__item"> <a href="https://blog.onliner.by/publichnye-dogovory" class="footer-style__link footer-style__link_primary"> Публичные договоры </a> </li> 
+         <li class="footer-style__item"> <a href="https://blog.onliner.by/politika-konfidencialnosti" class="footer-style__link footer-style__link_primary"> Политика конфиденциальности </a> </li> 
+         <li class="footer-style__item"> <a href="https://support.onliner.by/" class="footer-style__link footer-style__link_primary"> Поддержка пользователей </a> </li> 
+        </ul> 
+       </div> 
+       <div class="footer-style__part footer-style__part_2"> 
+        <div class="footer-style__social"> <a href="https://vk.com/onliner" rel="noopener" target="_blank" class="footer-style__social-button footer-style__social-button_vk"></a> <a href="https://facebook.com/onlinerby" rel="noopener" target="_blank" class="footer-style__social-button footer-style__social-button_fb"></a> <a href="https://twitter.com/OnlinerBY" rel="noopener" target="_blank" class="footer-style__social-button footer-style__social-button_tw"></a> <a href="https://youtube.com/onlinerby" rel="noopener" target="_blank" class="footer-style__social-button footer-style__social-button_yt"></a> 
+        </div> 
+        <div class="footer-style__copy">
+          © 2001—2020 Onliner.by 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> <!--/Footer--> 
+   </footer> <!--/Bottom--> 
+  </div> <!--/Layout container--> 
+  <script type="text/javascript" src="//gc.onliner.by/assets/openapi.23d9456d10dd290e.js"></script> 
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String("B8.gja_Lo5zCgGtl8IqkWZaGPzipEgeVWzlr0naEik7.i7");
+//--><!]]>
+</script> 
+  <script type="text/javascript" src="https://gc.onliner.by/js/old-content/xgemius.js"></script> 
+  <script async src="https://cdn.onthe.io/io.js/c3cmgY3sDL59"></script> 
+  <script>
+        (function () {
+            function ontheTrack(data) {
+                window._io_config = window._io_config || {};
+                window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+                window._io_config["0.2.0"].push(data);
+            }
+
+            if (window.ONTHE_DATA) {
+                ontheTrack(window.ONTHE_DATA);
+            }
+
+            window.ONTHE_TRACK = ontheTrack;
+        }());
+    </script> 
+  <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 924821186;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script> 
+  <div style="display:none"> 
+   <script type="text/javascript" src="//gc.onliner.by/assets/conversion.a918f0e41995a3ec.js">
+</script> 
+   <noscript> 
+    <div style="display:inline;"> 
+     <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/924821186/?value=0&amp;guid=ON&amp;script=0"> 
+    </div> 
+   </noscript> 
+  </div> 
+  <link rel="stylesheet" href="//gc.onliner.by/assets/non-critical-styles.b9fd77c42ac078f1.css"> 
+  <script type="text/javascript" src="//gc.onliner.by/assets/vendor.121859125e8061cd.js"></script>
+  <script type="text/javascript" src="//gc.onliner.by/assets/common.77d1df92a1d2bc98.js"></script>
+  <script type="text/javascript" src="//chats.onliner.by/assets/chats.ad59c8de73129319.js"></script>
+  <script type="text/javascript" src="//gc.onliner.by/assets/tiles.45b124081448b593.js"></script>
+  <script type="text/javascript" src="//profile.onliner.by/assets/user-extended.0d0f81299463586d.js"></script>  
+ </body>
+</html>

@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.File;
 import java.io.IOException;
-import java.util.List;
+import java.util.Map;
 
 @WebServlet(urlPatterns = "/load")
 public class MainController extends HttpServlet {
@@ -35,13 +35,11 @@ public class MainController extends HttpServlet {
             String url = req.getParameter("url");
             File file = fileLoader.loadFile(url);
 
-            String tagData = parser.readTagContent(Jsoup.parse(file, "UTF-8"), "img");
-            List<String> imgLinks = parser.readAllImgs(Jsoup.parse(file, "UTF-8"), "img");
-
+            Map<String, String> metaTagsMap = parser
+                    .readTagContentsMap(Jsoup.parse(file, "UTF-8"), "meta", "name", "content");
             if (file.exists()) {
                 req.setAttribute("success", "success");
-                req.setAttribute("tagData", tagData);
-                req.setAttribute("imgLinks", imgLinks);
+                req.setAttribute("metaTagsMap", metaTagsMap);
             } else {
                 req.setAttribute("problem", "problem");
             }
